@@ -1,0 +1,1001 @@
+Order ID,Customer ID,Product Name,Category,Quantity,Unit Price,Total Amount,Order Date,Payment Mode,Delivery Status,City or Region
+ORD10000,CUST157,Wall Clock,Home Decor,1.0,578,578.0,2026-02-01,UPI,Delivered,Delhi
+ORD10001,CUST155,Curtains,Home Decor,1.0,76,76.0,2026-01-12,UPI,Delivered,Kolkata
+ORD10002,CUST171,Curtains,Home Decor,2.0,934,1868.0,2026-03-17,Credit Card,Shipped,Delhi
+ORD10003,CUST126,Jackets,Clothing,2.0,455,910.0,2026-02-13,Credit Card,Cancelled,Delhi
+ORD10004,CUST286,Jackets,Clothing,5.0,556,2780.0,2026-01-06,Net Banking,Delivered,Delhi
+ORD10005,CUST149,Wireless Headphones,Electronics,5.0,755,3775.0,2026-03-15,Credit Card,Delivered,Kolkata
+ORD10006,CUST171,T-Shirt,Clothing,3.0,221,663.0,2026-02-18,Net Banking,Pending,Bangalore
+ORD10007,CUST339,Jackets,Clothing,2.0,561,1122.0,2026-03-31,Credit Card,Shipped,Kolkata
+ORD10008,CUST276,Smartwatch,Electronics,4.0,567,2268.0,2026-03-23,UPI,Pending,Mumbai
+ORD10009,CUST116,Laptop,Electronics,3.0,836,2508.0,2026-02-04,UPI,Pending,Kolkata
+ORD10010,CUST167,Curtains,Home Decor,2.0,954,1908.0,2026-01-19,UPI,Shipped,Chennai
+ORD10011,CUST156,Curtains,Home Decor,5.0,832,4160.0,2026-02-16,UPI,Cancelled,Delhi
+ORD10012,CUST208,Laptop,Electronics,2.0,342,684.0,2026-03-29,Credit Card,Cancelled,Delhi
+ORD10013,CUST320,Curtains,Home Decor,5.0,529,2645.0,2026-03-12,Credit Card,Delivered,Chennai
+ORD10014,CUST140,Table Lamp,Home Decor,1.0,616,616.0,2026-02-25,Net Banking,Delivered,Chennai
+ORD10015,CUST176,Sofa Cover,Home Decor,5.0,232,1160.0,2026-03-22,UPI,Shipped,Mumbai
+ORD10016,CUST104,Laptop,Electronics,5.0,678,3390.0,2026-03-04,Credit Card,Pending,Chennai
+ORD10017,CUST121,Laptop,Electronics,2.0,1176,2352.0,2026-01-11,Net Banking,Delivered,Bangalore
+ORD10018,CUST235,Smartwatch,Electronics,5.0,353,1765.0,2026-02-03,Net Banking,Shipped,Kolkata
+ORD10019,CUST330,Table Lamp,Home Decor,4.0,779,3116.0,2026-02-26,Net Banking,Delivered,Kolkata
+ORD10020,CUST241,Laptop,Unknown,3.0,150,450.0,2026-03-17,UPI,Shipped,Mumbai
+ORD10021,CUST320,Laptop,Electronics,2.0,153,306.0,2026-01-05,Cash on Delivery,Delivered,Kolkata
+ORD10022,CUST285,Sneakers,Clothing,2.0,1119,2238.0,2026-01-17,Net Banking,Shipped,Bangalore
+ORD10023,CUST210,Jeans,Clothing,1.0,213,213.0,2026-03-26,Cash on Delivery,Cancelled,Delhi
+ORD10024,CUST286,T-Shirt,Clothing,1.0,139,139.0,2026-02-21,Cash on Delivery,Delivered,Kolkata
+ORD10025,CUST208,Smartphone,Electronics,5.0,933,4665.0,2026-01-18,UPI,Pending,Bangalore
+ORD10026,CUST112,Laptop,Electronics,4.0,1142,4568.0,2026-01-13,Credit Card,Delivered,Kolkata
+ORD10027,CUST321,Smartwatch,Electronics,4.0,1000,4000.0,2026-01-28,Net Banking,Delivered,Bangalore
+ORD10028,CUST173,T-Shirt,Clothing,4.0,558,2232.0,2026-02-28,Net Banking,Cancelled,Bangalore
+ORD10029,CUST288,Wireless Headphones,Electronics,2.0,134,268.0,2026-03-16,Credit Card,Pending,Mumbai
+ORD10030,CUST114,Smartwatch,Electronics,5.0,1102,5510.0,2026-01-21,Credit Card,Shipped,Delhi
+ORD10031,CUST341,Wall Clock,Home Decor,2.0,841,1682.0,2026-01-16,UPI,Delivered,Delhi
+ORD10032,CUST283,Jackets,Clothing,3.0,433,1299.0,2026-03-27,Cash on Delivery,Shipped,Chennai
+ORD10033,CUST337,Jeans,Clothing,3.0,951,2853.0,2026-02-10,Credit Card,Delivered,Bangalore
+ORD10034,CUST229,Wall Clock,Home Decor,1.0,1116,1116.0,2026-01-28,Cash on Delivery,Shipped,Mumbai
+ORD10035,CUST212,Smartphone,Electronics,3.0,598,1794.0,2026-01-21,Cash on Delivery,Delivered,Chennai
+ORD10036,CUST327,Wall Clock,Home Decor,2.0,556,1112.0,2026-01-15,Credit Card,Shipped,Chennai
+ORD10037,CUST262,Jeans,Unknown,3.0,431,1293.0,2026-03-29,Cash on Delivery,Cancelled,Chennai
+ORD10038,CUST100,Laptop,Electronics,4.0,581,2324.0,2026-01-06,Cash on Delivery,Shipped,Chennai
+ORD10039,CUST102,Smartwatch,Electronics,5.0,890,4450.0,2026-03-13,Credit Card,Delivered,Bangalore
+ORD10040,CUST210,Wall Clock,Home Decor,3.0,1146,3438.0,2026-01-19,UPI,Delivered,Chennai
+ORD10041,CUST163,T-Shirt,Clothing,3.0,445,1335.0,2026-03-29,Credit Card,Pending,Delhi
+ORD10042,CUST325,Sofa Cover,Home Decor,2.0,347,694.0,2026-01-23,Net Banking,Delivered,Bangalore
+ORD10043,CUST140,Table Lamp,Home Decor,4.0,523,2092.0,2026-02-04,Credit Card,Cancelled,Mumbai
+ORD10044,CUST178,Jeans,Clothing,2.0,957,1914.0,2026-02-14,UPI,Shipped,Mumbai
+ORD10045,CUST321,Sofa Cover,Home Decor,4.0,687,2748.0,2026-02-05,Credit Card,Pending,Mumbai
+ORD10046,CUST129,Curtains,Home Decor,5.0,693,3465.0,2026-01-04,Cash on Delivery,Shipped,Chennai
+ORD10047,CUST286,Laptop,Electronics,5.0,904,4520.0,2026-02-14,Cash on Delivery,Cancelled,Delhi
+ORD10048,CUST211,Jeans,Clothing,3.0,105,315.0,2026-04-01,Credit Card,Shipped,Mumbai
+ORD10049,CUST317,T-Shirt,Clothing,3.0,657,1971.0,2026-03-26,Credit Card,Pending,Chennai
+ORD10050,CUST175,Curtains,Home Decor,3.0,839,2517.0,2026-03-31,UPI,Shipped,Delhi
+ORD10051,CUST203,Curtains,Home Decor,2.0,1180,2360.0,2026-02-08,Credit Card,Pending,Chennai
+ORD10052,CUST213,Smartwatch,Electronics,5.0,674,3370.0,2026-03-01,Net Banking,Shipped,Bangalore
+ORD10053,CUST269,Sofa Cover,Home Decor,1.0,596,596.0,2026-03-07,Cash on Delivery,Delivered,Kolkata
+ORD10054,CUST106,Table Lamp,Home Decor,2.0,422,844.0,2026-01-19,Credit Card,Shipped,Bangalore
+ORD10055,CUST247,Wall Clock,Home Decor,4.0,863,3452.0,2026-03-22,UPI,Cancelled,Bangalore
+ORD10056,CUST299,Jeans,Clothing,2.0,26,52.0,2026-01-14,Net Banking,Shipped,Bangalore
+ORD10057,CUST334,Curtains,Home Decor,1.0,1156,1156.0,2026-02-01,Credit Card,Cancelled,Bangalore
+ORD10058,CUST312,Jackets,Clothing,4.0,1048,4192.0,2026-02-24,Unknown,Shipped,Bangalore
+ORD10059,CUST224,Jackets,Clothing,2.0,582,1164.0,2026-03-08,UPI,Pending,Bangalore
+ORD10060,CUST181,Wireless Headphones,Electronics,2.0,571,1142.0,2026-02-12,Credit Card,Shipped,Bangalore
+ORD10061,CUST206,Smartwatch,Electronics,2.0,453,906.0,2026-01-09,Net Banking,Pending,Bangalore
+ORD10062,CUST331,T-Shirt,Clothing,2.0,875,1750.0,2026-02-19,Credit Card,Cancelled,Bangalore
+ORD10063,CUST237,Wireless Headphones,Electronics,3.0,813,2439.0,2026-02-23,UPI,Cancelled,Kolkata
+ORD10064,CUST186,Sneakers,Clothing,4.0,74,296.0,2026-02-19,Net Banking,Shipped,Bangalore
+ORD10065,CUST106,Laptop,Electronics,4.0,1170,4680.0,2026-03-26,Credit Card,Cancelled,Bangalore
+ORD10066,CUST183,Jeans,Clothing,1.0,547,547.0,2026-02-18,UPI,Cancelled,Mumbai
+ORD10067,CUST313,Sneakers,Unknown,3.0,878,2634.0,2026-02-02,Credit Card,Cancelled,Mumbai
+ORD10068,CUST117,Wall Clock,Home Decor,3.0,474,1422.0,2026-03-25,Credit Card,Delivered,Kolkata
+ORD10069,CUST132,Laptop,Electronics,5.0,327,1635.0,2026-01-31,Net Banking,Delivered,Kolkata
+ORD10070,CUST255,Jackets,Clothing,3.0,358,1074.0,2026-03-19,Credit Card,Shipped,Chennai
+ORD10071,CUST332,Laptop,Unknown,3.0,1194,3582.0,2026-03-28,Net Banking,Cancelled,Kolkata
+ORD10072,CUST253,Smartphone,Electronics,1.0,632,632.0,2026-03-29,Credit Card,Delivered,Mumbai
+ORD10073,CUST265,Curtains,Home Decor,3.0,156,468.0,2026-03-06,Cash on Delivery,Delivered,Delhi
+ORD10074,CUST328,T-Shirt,Clothing,4.0,756,3024.0,2026-03-23,Net Banking,Shipped,Delhi
+ORD10075,CUST219,Wireless Headphones,Electronics,5.0,1117,5585.0,2026-03-03,Net Banking,Pending,Mumbai
+ORD10076,CUST292,Laptop,Electronics,3.0,938,2814.0,2026-02-01,Net Banking,Cancelled,Mumbai
+ORD10077,CUST154,Smartwatch,Electronics,3.0,387,1161.0,2026-03-04,Cash on Delivery,Pending,Mumbai
+ORD10078,CUST342,Jackets,Clothing,3.0,35,105.0,2026-03-08,UPI,Delivered,Kolkata
+ORD10079,CUST276,Curtains,Home Decor,4.0,1152,4608.0,2026-01-31,Net Banking,Cancelled,Bangalore
+ORD10080,CUST277,Laptop,Electronics,3.0,468,1404.0,2026-02-21,UPI,Pending,Mumbai
+ORD10081,CUST190,Jackets,Clothing,4.0,1142,4568.0,2026-02-12,Net Banking,Pending,Chennai
+ORD10082,CUST130,Jeans,Clothing,1.0,409,409.0,2026-02-10,UPI,Shipped,Kolkata
+ORD10083,CUST172,Curtains,Home Decor,3.0,1089,3267.0,2026-03-18,Credit Card,Shipped,Chennai
+ORD10084,CUST281,Wireless Headphones,Electronics,2.0,634,1268.0,2026-01-02,UPI,Pending,Mumbai
+ORD10085,CUST323,Wireless Headphones,Electronics,2.0,1020,2040.0,2026-01-14,Credit Card,Pending,Bangalore
+ORD10086,CUST164,Sneakers,Clothing,3.0,392,1176.0,2026-01-07,Net Banking,Delivered,Delhi
+ORD10087,CUST275,Sneakers,Clothing,1.0,1196,1196.0,2026-03-22,Unknown,Shipped,Bangalore
+ORD10088,CUST242,Table Lamp,Home Decor,1.0,523,523.0,2026-01-16,Net Banking,Shipped,Delhi
+ORD10089,CUST245,Sneakers,Clothing,3.0,893,2679.0,2026-02-09,Credit Card,Delivered,Kolkata
+ORD10090,CUST161,Sofa Cover,Home Decor,3.0,181,543.0,2026-01-21,UPI,Delivered,Bangalore
+ORD10091,CUST108,Smartwatch,Electronics,4.0,977,3908.0,2026-02-07,UPI,Pending,Chennai
+ORD10092,CUST301,Curtains,Home Decor,1.0,493,493.0,2026-02-03,UPI,Cancelled,Delhi
+ORD10093,CUST118,Sofa Cover,Home Decor,2.0,559,1118.0,2026-01-19,Credit Card,Shipped,Chennai
+ORD10094,CUST276,Table Lamp,Home Decor,3.0,269,807.0,2026-03-01,Cash on Delivery,Cancelled,Chennai
+ORD10095,CUST110,Curtains,Home Decor,4.0,179,716.0,2026-03-18,Net Banking,Pending,Chennai
+ORD10096,CUST343,Laptop,Electronics,2.0,1193,2386.0,2026-03-17,Credit Card,Pending,Mumbai
+ORD10097,CUST146,Smartwatch,Electronics,5.0,920,4600.0,2026-02-05,Net Banking,Cancelled,Delhi
+ORD10098,CUST271,Jackets,Clothing,4.0,697,2788.0,2026-02-11,Credit Card,Shipped,Mumbai
+ORD10099,CUST109,Sneakers,Unknown,3.0,835,2505.0,2026-03-12,Net Banking,Delivered,Mumbai
+ORD10100,CUST311,Jackets,Clothing,2.0,842,1684.0,2026-03-07,Credit Card,Cancelled,Delhi
+ORD10101,CUST293,Smartphone,Electronics,3.0,755,2265.0,2026-03-21,Net Banking,Cancelled,Mumbai
+ORD10102,CUST212,Wireless Headphones,Electronics,5.0,283,1415.0,2026-02-06,Net Banking,Delivered,Mumbai
+ORD10103,CUST103,Sofa Cover,Home Decor,2.0,651,1302.0,2026-03-12,Net Banking,Delivered,Kolkata
+ORD10104,CUST338,Smartwatch,Electronics,3.0,330,990.0,2026-03-05,Cash on Delivery,Pending,Delhi
+ORD10105,CUST137,Sneakers,Clothing,2.0,950,1900.0,2026-03-12,Net Banking,Shipped,Bangalore
+ORD10106,CUST168,Wireless Headphones,Electronics,4.0,711,2844.0,2026-03-06,Credit Card,Pending,Chennai
+ORD10107,CUST223,Curtains,Home Decor,2.0,929,1858.0,2026-03-10,Cash on Delivery,Pending,Delhi
+ORD10108,CUST198,Jackets,Clothing,3.0,504,1512.0,2026-03-15,UPI,Cancelled,Mumbai
+ORD10109,CUST302,Sneakers,Clothing,4.0,805,3220.0,2026-03-26,UPI,Cancelled,Mumbai
+ORD10110,CUST234,Wireless Headphones,Electronics,1.0,916,916.0,2026-01-13,Net Banking,Delivered,Bangalore
+ORD10111,CUST186,Jeans,Clothing,1.0,976,976.0,2026-02-03,Net Banking,Delivered,Mumbai
+ORD10112,CUST109,Curtains,Home Decor,3.0,1014,3042.0,2026-03-11,Credit Card,Shipped,Chennai
+ORD10113,CUST280,Laptop,Electronics,4.0,216,864.0,2026-03-23,Credit Card,Cancelled,Bangalore
+ORD10114,CUST303,Table Lamp,Home Decor,1.0,109,109.0,2026-02-11,Credit Card,Pending,Mumbai
+ORD10115,CUST205,Sneakers,Clothing,2.0,515,1030.0,2026-03-09,UPI,Shipped,Bangalore
+ORD10116,CUST333,Smartwatch,Electronics,5.0,508,2540.0,2026-03-05,UPI,Shipped,Bangalore
+ORD10117,CUST102,Table Lamp,Home Decor,4.0,537,2148.0,2026-03-27,Net Banking,Pending,Bangalore
+ORD10118,CUST346,Smartwatch,Electronics,3.0,627,1881.0,2026-03-23,Net Banking,Pending,Bangalore
+ORD10119,CUST160,Jeans,Clothing,3.0,1004,3012.0,2026-01-14,Net Banking,Pending,Chennai
+ORD10120,CUST102,Table Lamp,Home Decor,1.0,825,825.0,2026-02-05,Credit Card,Cancelled,Chennai
+ORD10121,CUST164,Wireless Headphones,Electronics,2.0,404,808.0,2026-03-21,UPI,Delivered,Mumbai
+ORD10122,CUST123,Sneakers,Clothing,1.0,762,762.0,2026-01-17,Cash on Delivery,Pending,Delhi
+ORD10123,CUST235,Smartphone,Electronics,2.0,1119,2238.0,2026-02-16,Cash on Delivery,Shipped,Chennai
+ORD10124,CUST346,Jackets,Clothing,3.0,250,750.0,2026-03-01,Credit Card,Shipped,Kolkata
+ORD10125,CUST302,Curtains,Home Decor,5.0,764,3820.0,2026-01-12,Net Banking,Delivered,Chennai
+ORD10126,CUST291,Wall Clock,Home Decor,4.0,769,3076.0,2026-03-28,Cash on Delivery,Cancelled,Mumbai
+ORD10127,CUST326,Smartphone,Electronics,4.0,66,264.0,2026-03-21,Cash on Delivery,Shipped,Delhi
+ORD10128,CUST135,Curtains,Home Decor,3.0,851,2553.0,2026-01-15,Unknown,Delivered,Chennai
+ORD10129,CUST134,T-Shirt,Clothing,1.0,495,495.0,2026-03-10,Net Banking,Cancelled,Mumbai
+ORD10130,CUST267,Curtains,Home Decor,5.0,331,1655.0,2026-02-23,Credit Card,Cancelled,Delhi
+ORD10131,CUST213,T-Shirt,Clothing,3.0,459,1377.0,2026-02-26,UPI,Pending,Delhi
+ORD10132,CUST201,Table Lamp,Home Decor,5.0,749,3745.0,2026-01-08,Cash on Delivery,Shipped,Delhi
+ORD10133,CUST301,T-Shirt,Clothing,3.0,58,174.0,2026-01-07,Cash on Delivery,Shipped,Bangalore
+ORD10134,CUST250,Sofa Cover,Home Decor,1.0,1150,1150.0,2026-01-27,UPI,Shipped,Mumbai
+ORD10135,CUST238,Laptop,Electronics,3.0,311,933.0,2026-01-17,Cash on Delivery,Shipped,Delhi
+ORD10136,CUST302,Wall Clock,Home Decor,2.0,45,90.0,2026-02-15,UPI,Pending,Mumbai
+ORD10137,CUST234,Wireless Headphones,Unknown,1.0,274,274.0,2026-02-23,Credit Card,Delivered,Bangalore
+ORD10138,CUST228,Jackets,Clothing,5.0,238,1190.0,2026-02-27,UPI,Delivered,Chennai
+ORD10139,CUST209,T-Shirt,Clothing,1.0,995,995.0,2026-02-21,Credit Card,Cancelled,Bangalore
+ORD10140,CUST132,Laptop,Electronics,3.0,318,954.0,2026-01-09,Cash on Delivery,Pending,Delhi
+ORD10141,CUST210,Table Lamp,Home Decor,4.0,1050,4200.0,2026-03-19,Credit Card,Delivered,Kolkata
+ORD10142,CUST311,Sneakers,Clothing,3.0,862,2586.0,2026-02-13,Net Banking,Cancelled,Delhi
+ORD10143,CUST270,Wall Clock,Home Decor,3.0,889,2667.0,2026-02-10,Cash on Delivery,Pending,Bangalore
+ORD10144,CUST123,Curtains,Home Decor,1.0,201,201.0,2026-01-11,Net Banking,Delivered,Mumbai
+ORD10145,CUST184,Laptop,Electronics,5.0,1165,5825.0,2026-03-13,Credit Card,Cancelled,Mumbai
+ORD10146,CUST179,Curtains,Unknown,1.0,604,604.0,2026-03-18,Cash on Delivery,Delivered,Kolkata
+ORD10147,CUST316,Smartwatch,Electronics,2.0,236,472.0,2026-02-14,Cash on Delivery,Delivered,Chennai
+ORD10148,CUST257,Sofa Cover,Home Decor,4.0,1163,4652.0,2026-03-21,Credit Card,Pending,Mumbai
+ORD10149,CUST101,Wireless Headphones,Electronics,3.0,710,2130.0,2026-02-14,UPI,Shipped,Delhi
+ORD10150,CUST155,Smartphone,Electronics,1.0,150,150.0,2026-03-09,Net Banking,Cancelled,Bangalore
+ORD10151,CUST298,Jeans,Clothing,3.0,653,1959.0,2026-02-11,Credit Card,Delivered,Bangalore
+ORD10152,CUST269,Laptop,Electronics,1.0,572,572.0,2026-02-26,Net Banking,Cancelled,Bangalore
+ORD10153,CUST188,Jackets,Clothing,2.0,1064,2128.0,2026-01-15,Net Banking,Delivered,Chennai
+ORD10154,CUST156,Curtains,Home Decor,5.0,646,3230.0,2026-01-06,Net Banking,Delivered,Mumbai
+ORD10155,CUST174,Wireless Headphones,Electronics,2.0,296,592.0,2026-02-02,Cash on Delivery,Delivered,Mumbai
+ORD10156,CUST236,Sneakers,Clothing,2.0,279,558.0,2026-02-18,UPI,Pending,Delhi
+ORD10157,CUST335,T-Shirt,Clothing,4.0,53,212.0,2026-02-28,Credit Card,Pending,Delhi
+ORD10158,CUST203,Curtains,Home Decor,4.0,607,2428.0,2026-01-15,Credit Card,Pending,Bangalore
+ORD10159,CUST316,Curtains,Home Decor,3.0,195,585.0,2026-02-25,Credit Card,Shipped,Delhi
+ORD10160,CUST322,Curtains,Home Decor,5.0,176,880.0,2026-02-20,Cash on Delivery,Pending,Kolkata
+ORD10161,CUST129,Jeans,Clothing,1.0,1060,1060.0,2026-03-23,UPI,Pending,Mumbai
+ORD10162,CUST165,Sofa Cover,Home Decor,2.0,225,450.0,2026-01-19,UPI,Shipped,Bangalore
+ORD10163,CUST293,Wall Clock,Home Decor,2.0,1026,2052.0,2026-03-01,Net Banking,Pending,Mumbai
+ORD10164,CUST261,Smartwatch,Electronics,1.0,975,975.0,2026-02-26,Cash on Delivery,Pending,Mumbai
+ORD10165,CUST109,T-Shirt,Clothing,3.0,960,2880.0,2026-02-27,Credit Card,Pending,Chennai
+ORD10166,CUST218,Laptop,Electronics,5.0,1053,5265.0,2026-02-19,Credit Card,Cancelled,Kolkata
+ORD10167,CUST215,Sneakers,Clothing,5.0,323,1615.0,2026-01-08,Credit Card,Pending,Delhi
+ORD10168,CUST212,Sofa Cover,Home Decor,1.0,522,522.0,2026-04-01,Net Banking,Shipped,Mumbai
+ORD10169,CUST273,Jackets,Clothing,4.0,852,3408.0,2026-02-13,Credit Card,Pending,Delhi
+ORD10170,CUST164,T-Shirt,Clothing,5.0,806,4030.0,2026-02-06,UPI,Pending,Delhi
+ORD10171,CUST278,Sofa Cover,Home Decor,3.0,650,1950.0,2026-03-25,Net Banking,Shipped,Delhi
+ORD10172,CUST279,Sneakers,Clothing,3.0,276,828.0,2026-03-27,Credit Card,Cancelled,Mumbai
+ORD10173,CUST187,Wireless Headphones,Electronics,3.0,384,1152.0,2026-01-28,Net Banking,Shipped,Kolkata
+ORD10174,CUST229,Smartphone,Electronics,1.0,620,620.0,2026-01-13,Credit Card,Pending,Bangalore
+ORD10175,CUST312,Curtains,Home Decor,2.0,347,694.0,2026-01-24,UPI,Cancelled,Mumbai
+ORD10176,CUST172,Jackets,Clothing,2.0,924,1848.0,2026-03-20,Net Banking,Shipped,Kolkata
+ORD10177,CUST342,Sneakers,Clothing,2.0,768,1536.0,2026-03-28,Net Banking,Cancelled,Chennai
+ORD10178,CUST135,Sneakers,Clothing,2.0,423,846.0,2026-03-19,Cash on Delivery,Delivered,Bangalore
+ORD10179,CUST121,T-Shirt,Clothing,5.0,270,1350.0,2026-02-06,UPI,Pending,Bangalore
+ORD10180,CUST309,Sofa Cover,Home Decor,4.0,202,808.0,2026-01-29,Unknown,Pending,Mumbai
+ORD10181,CUST160,T-Shirt,Clothing,4.0,1043,4172.0,2026-02-17,Net Banking,Delivered,Mumbai
+ORD10182,CUST185,Laptop,Electronics,3.0,217,651.0,2026-03-25,UPI,Shipped,Mumbai
+ORD10183,CUST257,Sneakers,Clothing,2.0,975,1950.0,2026-02-27,Credit Card,Delivered,Mumbai
+ORD10184,CUST235,Jeans,Clothing,2.0,1138,2276.0,2026-03-19,Net Banking,Delivered,Chennai
+ORD10185,CUST207,Wireless Headphones,Electronics,1.0,112,112.0,2026-01-31,Net Banking,Delivered,Delhi
+ORD10186,CUST283,T-Shirt,Clothing,5.0,1192,5960.0,2026-01-31,UPI,Pending,Delhi
+ORD10187,CUST147,Wireless Headphones,Electronics,2.0,1183,2366.0,2026-02-23,Credit Card,Pending,Delhi
+ORD10188,CUST262,Wall Clock,Home Decor,4.0,977,3908.0,2026-01-06,Net Banking,Pending,Chennai
+ORD10189,CUST161,Wall Clock,Home Decor,3.0,153,459.0,2026-02-14,Credit Card,Pending,Bangalore
+ORD10190,CUST144,Wireless Headphones,Electronics,5.0,708,3540.0,2026-03-24,Net Banking,Cancelled,Bangalore
+ORD10191,CUST151,Laptop,Electronics,4.0,90,360.0,2026-02-07,Credit Card,Shipped,Mumbai
+ORD10192,CUST221,Jackets,Unknown,5.0,830,4150.0,2026-03-11,Cash on Delivery,Delivered,Kolkata
+ORD10193,CUST131,Jackets,Clothing,1.0,694,694.0,2026-02-04,Cash on Delivery,Cancelled,Delhi
+ORD10194,CUST227,Curtains,Home Decor,4.0,709,2836.0,2026-01-24,Net Banking,Pending,Chennai
+ORD10195,CUST310,Smartwatch,Electronics,1.0,896,896.0,2026-03-19,UPI,Pending,Mumbai
+ORD10196,CUST214,Laptop,Electronics,3.0,620,1860.0,2026-02-09,Net Banking,Shipped,Bangalore
+ORD10197,CUST211,Sneakers,Unknown,1.0,737,737.0,2026-03-20,Cash on Delivery,Delivered,Delhi
+ORD10198,CUST140,Curtains,Home Decor,3.0,1065,3195.0,2026-03-28,Credit Card,Shipped,Bangalore
+ORD10199,CUST193,Smartphone,Electronics,1.0,498,498.0,2026-03-24,Unknown,Cancelled,Mumbai
+ORD10200,CUST213,Sofa Cover,Home Decor,4.0,774,3096.0,2026-02-17,Credit Card,Shipped,Mumbai
+ORD10201,CUST106,Jackets,Clothing,3.0,526,1578.0,2026-01-15,UPI,Cancelled,Delhi
+ORD10202,CUST214,Wall Clock,Home Decor,3.0,548,1644.0,2026-04-01,UPI,Pending,Bangalore
+ORD10203,CUST144,Laptop,Electronics,2.0,166,332.0,2026-02-27,Net Banking,Delivered,Mumbai
+ORD10204,CUST174,Table Lamp,Home Decor,1.0,1141,1141.0,2026-03-11,Cash on Delivery,Shipped,Bangalore
+ORD10205,CUST160,Jeans,Unknown,1.0,426,426.0,2026-01-18,Net Banking,Delivered,Mumbai
+ORD10206,CUST256,Table Lamp,Home Decor,4.0,1144,4576.0,2026-01-17,Credit Card,Delivered,Chennai
+ORD10207,CUST310,Sneakers,Clothing,5.0,856,4280.0,2026-02-22,Credit Card,Shipped,Mumbai
+ORD10208,CUST232,Wall Clock,Home Decor,4.0,969,3876.0,2026-03-29,Cash on Delivery,Shipped,Bangalore
+ORD10209,CUST232,Smartwatch,Electronics,5.0,128,640.0,2026-01-16,UPI,Pending,Bangalore
+ORD10210,CUST329,Wireless Headphones,Electronics,2.0,723,1446.0,2026-03-08,Cash on Delivery,Delivered,Chennai
+ORD10211,CUST236,Wireless Headphones,Electronics,2.0,635,1270.0,2026-03-20,Credit Card,Shipped,Bangalore
+ORD10212,CUST120,Wireless Headphones,Electronics,5.0,99,495.0,2026-01-04,Credit Card,Pending,Kolkata
+ORD10213,CUST327,Curtains,Unknown,5.0,77,385.0,2026-03-05,Cash on Delivery,Pending,Bangalore
+ORD10214,CUST276,Smartwatch,Electronics,3.0,943,2829.0,2026-01-10,Credit Card,Shipped,Bangalore
+ORD10215,CUST255,Sneakers,Clothing,4.0,432,1728.0,2026-02-13,UPI,Pending,Mumbai
+ORD10216,CUST231,Table Lamp,Home Decor,4.0,282,1128.0,2026-02-17,Credit Card,Pending,Kolkata
+ORD10217,CUST136,T-Shirt,Clothing,3.0,935,2805.0,2026-02-01,Credit Card,Delivered,Chennai
+ORD10218,CUST339,Sneakers,Clothing,2.0,342,684.0,2026-02-11,Cash on Delivery,Shipped,Bangalore
+ORD10219,CUST105,Sneakers,Clothing,4.0,646,2584.0,2026-03-05,Credit Card,Cancelled,Bangalore
+ORD10220,CUST112,Smartphone,Electronics,5.0,737,3685.0,2026-01-07,Cash on Delivery,Cancelled,Bangalore
+ORD10221,CUST325,T-Shirt,Clothing,1.0,897,897.0,2026-01-18,Cash on Delivery,Pending,Delhi
+ORD10222,CUST243,T-Shirt,Clothing,4.0,119,476.0,2026-03-14,UPI,Pending,Chennai
+ORD10223,CUST171,Smartwatch,Unknown,5.0,937,4685.0,2026-03-12,Credit Card,Shipped,Delhi
+ORD10224,CUST293,Jackets,Clothing,3.0,1157,3471.0,2026-02-16,UPI,Shipped,Delhi
+ORD10225,CUST282,Wall Clock,Home Decor,1.0,94,94.0,2026-01-18,Cash on Delivery,Cancelled,Bangalore
+ORD10226,CUST200,Smartphone,Electronics,3.0,667,2001.0,2026-01-21,Cash on Delivery,Pending,Bangalore
+ORD10227,CUST184,Table Lamp,Home Decor,4.0,49,196.0,2026-02-17,Credit Card,Cancelled,Chennai
+ORD10228,CUST347,Wall Clock,Home Decor,5.0,986,4930.0,2026-02-03,UPI,Delivered,Bangalore
+ORD10229,CUST246,Smartwatch,Electronics,2.0,511,1022.0,2026-01-05,Credit Card,Shipped,Mumbai
+ORD10230,CUST276,Jackets,Clothing,4.0,325,1300.0,2026-02-22,UPI,Cancelled,Bangalore
+ORD10231,CUST243,Wall Clock,Unknown,2.0,1077,2154.0,2026-01-27,Cash on Delivery,Cancelled,Delhi
+ORD10232,CUST239,Jeans,Clothing,4.0,1106,4424.0,2026-02-13,Cash on Delivery,Pending,Bangalore
+ORD10233,CUST157,Smartphone,Electronics,3.0,1157,3471.0,2026-02-08,Cash on Delivery,Pending,Kolkata
+ORD10234,CUST243,Curtains,Home Decor,3.0,997,2991.0,2026-02-14,Cash on Delivery,Pending,Delhi
+ORD10235,CUST174,Curtains,Home Decor,4.0,721,2884.0,2026-01-19,Credit Card,Pending,Delhi
+ORD10236,CUST151,Sneakers,Clothing,3.0,996,2988.0,2026-01-28,Cash on Delivery,Pending,Bangalore
+ORD10237,CUST331,Smartphone,Electronics,2.0,118,236.0,2026-03-27,UPI,Shipped,Mumbai
+ORD10238,CUST274,Smartwatch,Electronics,3.0,982,2946.0,2026-01-13,UPI,Delivered,Bangalore
+ORD10239,CUST182,Sneakers,Clothing,4.0,423,1692.0,2026-02-06,Cash on Delivery,Delivered,Delhi
+ORD10240,CUST206,Sofa Cover,Home Decor,5.0,91,455.0,2026-01-23,UPI,Delivered,Delhi
+ORD10241,CUST176,Jeans,Clothing,3.0,91,273.0,2026-01-02,Credit Card,Pending,Chennai
+ORD10242,CUST169,Sneakers,Clothing,3.0,1047,3141.0,2026-03-01,UPI,Delivered,Mumbai
+ORD10243,CUST288,Smartwatch,Electronics,3.0,396,1188.0,2026-01-02,Cash on Delivery,Pending,Kolkata
+ORD10244,CUST122,Smartwatch,Electronics,4.0,1070,4280.0,2026-02-11,Net Banking,Delivered,Bangalore
+ORD10245,CUST166,Smartwatch,Electronics,3.0,523,1569.0,2026-01-01,Net Banking,Shipped,Bangalore
+ORD10246,CUST166,Jackets,Clothing,3.0,1188,3564.0,2026-01-02,Unknown,Shipped,Mumbai
+ORD10247,CUST203,Wall Clock,Home Decor,4.0,643,2572.0,2026-01-21,Cash on Delivery,Delivered,Chennai
+ORD10248,CUST139,Jeans,Clothing,2.0,288,576.0,2026-03-03,Net Banking,Pending,Delhi
+ORD10249,CUST274,Curtains,Home Decor,5.0,462,2310.0,2026-02-01,Credit Card,Cancelled,Mumbai
+ORD10250,CUST151,Laptop,Electronics,2.0,1136,2272.0,2026-03-06,UPI,Shipped,Mumbai
+ORD10251,CUST225,Curtains,Home Decor,1.0,435,435.0,2026-03-16,Credit Card,Cancelled,Mumbai
+ORD10252,CUST244,Jeans,Clothing,5.0,865,4325.0,2026-02-28,Credit Card,Cancelled,Chennai
+ORD10253,CUST290,Wall Clock,Home Decor,4.0,536,2144.0,2026-01-01,UPI,Delivered,Mumbai
+ORD10254,CUST339,Jackets,Clothing,1.0,1123,1123.0,2026-01-08,Credit Card,Cancelled,Mumbai
+ORD10255,CUST350,Sneakers,Clothing,2.0,292,584.0,2026-03-24,Net Banking,Pending,Delhi
+ORD10256,CUST346,Sneakers,Clothing,4.0,179,716.0,2026-03-29,UPI,Pending,Delhi
+ORD10257,CUST313,Smartwatch,Electronics,5.0,275,1375.0,2026-01-29,Credit Card,Delivered,Chennai
+ORD10258,CUST163,Sneakers,Clothing,5.0,791,3955.0,2026-01-30,Net Banking,Pending,Bangalore
+ORD10259,CUST207,Jeans,Clothing,1.0,80,80.0,2026-03-26,Credit Card,Shipped,Kolkata
+ORD10260,CUST253,Laptop,Electronics,5.0,83,415.0,2026-02-27,Credit Card,Shipped,Mumbai
+ORD10261,CUST293,Sneakers,Clothing,2.0,1120,2240.0,2026-01-28,Credit Card,Shipped,Chennai
+ORD10262,CUST177,Wireless Headphones,Electronics,3.0,671,2013.0,2026-01-31,UPI,Shipped,Delhi
+ORD10263,CUST325,Jackets,Clothing,1.0,1155,1155.0,2026-03-17,UPI,Cancelled,Bangalore
+ORD10264,CUST278,Wireless Headphones,Electronics,4.0,1089,4356.0,2026-02-10,Net Banking,Cancelled,Bangalore
+ORD10265,CUST161,Sneakers,Clothing,2.0,1116,2232.0,2026-03-02,UPI,Pending,Bangalore
+ORD10266,CUST242,T-Shirt,Clothing,5.0,860,4300.0,2026-02-23,Unknown,Cancelled,Kolkata
+ORD10267,CUST316,Jeans,Clothing,3.0,176,528.0,2026-02-27,Cash on Delivery,Delivered,Kolkata
+ORD10268,CUST148,Wireless Headphones,Electronics,4.0,95,380.0,2026-01-10,UPI,Cancelled,Kolkata
+ORD10269,CUST346,Jackets,Clothing,1.0,448,448.0,2026-01-25,Credit Card,Cancelled,Kolkata
+ORD10270,CUST182,Sofa Cover,Home Decor,4.0,505,2020.0,2026-03-12,Cash on Delivery,Cancelled,Bangalore
+ORD10271,CUST231,Table Lamp,Home Decor,3.0,550,1650.0,2026-02-16,Net Banking,Cancelled,Delhi
+ORD10272,CUST180,Curtains,Unknown,3.0,431,1293.0,2026-02-17,Net Banking,Delivered,Kolkata
+ORD10273,CUST339,Sofa Cover,Home Decor,1.0,549,549.0,2026-03-12,Net Banking,Pending,Bangalore
+ORD10274,CUST313,Wireless Headphones,Electronics,3.0,792,2376.0,2026-03-14,UPI,Cancelled,Mumbai
+ORD10275,CUST287,Sneakers,Clothing,4.0,958,3832.0,2026-01-22,Cash on Delivery,Shipped,Bangalore
+ORD10276,CUST345,Curtains,Home Decor,2.0,1125,2250.0,2026-03-24,Credit Card,Delivered,Delhi
+ORD10277,CUST315,Wall Clock,Home Decor,1.0,859,859.0,2026-01-18,UPI,Delivered,Bangalore
+ORD10278,CUST115,Smartphone,Electronics,5.0,948,4740.0,2026-02-17,Net Banking,Cancelled,Mumbai
+ORD10279,CUST284,Smartwatch,Electronics,1.0,49,49.0,2026-03-09,Cash on Delivery,Pending,Mumbai
+ORD10280,CUST234,Curtains,Home Decor,2.0,234,468.0,2026-01-13,UPI,Shipped,Kolkata
+ORD10281,CUST120,Table Lamp,Home Decor,3.0,562,1686.0,2026-02-20,Cash on Delivery,Cancelled,Bangalore
+ORD10282,CUST311,Sofa Cover,Home Decor,2.0,629,1258.0,2026-03-29,Credit Card,Delivered,Delhi
+ORD10283,CUST114,Sneakers,Clothing,4.0,1146,4584.0,2026-03-02,Credit Card,Shipped,Delhi
+ORD10284,CUST329,Sneakers,Clothing,3.0,1173,3519.0,2026-01-13,Credit Card,Shipped,Kolkata
+ORD10285,CUST275,Curtains,Home Decor,3.0,110,330.0,2026-01-10,Cash on Delivery,Delivered,Bangalore
+ORD10286,CUST337,T-Shirt,Unknown,2.0,310,620.0,2026-02-20,Credit Card,Pending,Bangalore
+ORD10287,CUST329,Sofa Cover,Home Decor,5.0,811,4055.0,2026-03-28,Cash on Delivery,Cancelled,Bangalore
+ORD10288,CUST125,Wall Clock,Home Decor,5.0,723,3615.0,2026-01-07,Net Banking,Shipped,Delhi
+ORD10289,CUST169,Sneakers,Clothing,3.0,75,225.0,2026-03-23,Net Banking,Cancelled,Kolkata
+ORD10290,CUST249,Sneakers,Clothing,4.0,395,1580.0,2026-03-29,Net Banking,Delivered,Chennai
+ORD10291,CUST197,Laptop,Electronics,1.0,563,563.0,2026-01-20,UPI,Cancelled,Mumbai
+ORD10292,CUST213,T-Shirt,Clothing,1.0,25,25.0,2026-02-09,Cash on Delivery,Pending,Delhi
+ORD10293,CUST242,Laptop,Electronics,2.0,897,1794.0,2026-02-27,Net Banking,Delivered,Mumbai
+ORD10294,CUST253,Wireless Headphones,Electronics,5.0,205,1025.0,2026-03-18,Cash on Delivery,Cancelled,Mumbai
+ORD10295,CUST331,Sneakers,Unknown,4.0,188,752.0,2026-03-13,UPI,Shipped,Delhi
+ORD10296,CUST226,Smartphone,Electronics,3.0,631,1893.0,2026-02-04,UPI,Delivered,Bangalore
+ORD10297,CUST300,Jackets,Clothing,4.0,628,2512.0,2026-03-03,Credit Card,Pending,Chennai
+ORD10298,CUST127,Smartwatch,Electronics,5.0,415,2075.0,2026-02-28,UPI,Pending,Mumbai
+ORD10299,CUST212,Jackets,Clothing,5.0,793,3965.0,2026-02-12,Cash on Delivery,Cancelled,Bangalore
+ORD10300,CUST180,Jackets,Clothing,5.0,150,750.0,2026-03-03,UPI,Cancelled,Mumbai
+ORD10301,CUST196,Sneakers,Clothing,5.0,511,2555.0,2026-02-11,Cash on Delivery,Cancelled,Mumbai
+ORD10302,CUST274,Smartphone,Electronics,5.0,1132,5660.0,2026-01-24,Credit Card,Cancelled,Kolkata
+ORD10303,CUST227,Jackets,Clothing,1.0,852,852.0,2026-03-28,UPI,Pending,Kolkata
+ORD10304,CUST214,Jeans,Clothing,4.0,787,3148.0,2026-01-10,Net Banking,Cancelled,Delhi
+ORD10305,CUST263,Wall Clock,Home Decor,3.0,1114,3342.0,2026-03-18,Credit Card,Delivered,Kolkata
+ORD10306,CUST265,Table Lamp,Home Decor,2.0,105,210.0,2026-03-14,Net Banking,Pending,Delhi
+ORD10307,CUST230,Laptop,Electronics,1.0,544,544.0,2026-01-29,UPI,Cancelled,Mumbai
+ORD10308,CUST188,Sneakers,Clothing,5.0,1039,5195.0,2026-01-20,Credit Card,Cancelled,Delhi
+ORD10309,CUST189,Sneakers,Clothing,1.0,252,252.0,2026-01-19,Cash on Delivery,Pending,Bangalore
+ORD10310,CUST212,Smartwatch,Electronics,3.0,990,2970.0,2026-01-13,Net Banking,Pending,Delhi
+ORD10311,CUST265,T-Shirt,Clothing,1.0,61,61.0,2026-02-13,Credit Card,Shipped,Kolkata
+ORD10312,CUST243,Sofa Cover,Home Decor,5.0,342,1710.0,2026-02-12,Net Banking,Cancelled,Kolkata
+ORD10313,CUST107,Jeans,Clothing,2.0,900,1800.0,2026-02-20,UPI,Cancelled,Delhi
+ORD10314,CUST292,T-Shirt,Clothing,2.0,436,872.0,2026-02-05,Credit Card,Delivered,Bangalore
+ORD10315,CUST167,Jackets,Clothing,2.0,952,1904.0,2026-01-15,Net Banking,Pending,Delhi
+ORD10316,CUST190,Curtains,Home Decor,5.0,248,1240.0,2026-02-14,Net Banking,Shipped,Chennai
+ORD10317,CUST161,Wall Clock,Home Decor,2.0,656,1312.0,2026-01-16,Cash on Delivery,Delivered,Bangalore
+ORD10318,CUST252,Jeans,Clothing,3.0,810,2430.0,2026-02-23,UPI,Cancelled,Delhi
+ORD10319,CUST142,Smartwatch,Electronics,5.0,369,1845.0,2026-03-13,Net Banking,Pending,Bangalore
+ORD10320,CUST343,Wireless Headphones,Electronics,4.0,124,496.0,2026-02-15,Credit Card,Cancelled,Bangalore
+ORD10321,CUST226,Smartwatch,Electronics,5.0,1050,5250.0,2026-03-25,Net Banking,Cancelled,Delhi
+ORD10322,CUST244,Curtains,Home Decor,4.0,357,1428.0,2026-01-11,Credit Card,Shipped,Chennai
+ORD10323,CUST143,Wireless Headphones,Electronics,2.0,1116,2232.0,2026-02-06,Net Banking,Cancelled,Delhi
+ORD10324,CUST238,Wall Clock,Home Decor,3.0,1127,3381.0,2026-02-16,Credit Card,Cancelled,Kolkata
+ORD10325,CUST215,T-Shirt,Clothing,2.0,624,1248.0,2026-01-05,Cash on Delivery,Pending,Delhi
+ORD10326,CUST276,T-Shirt,Clothing,2.0,444,888.0,2026-03-17,Cash on Delivery,Cancelled,Bangalore
+ORD10327,CUST245,Sofa Cover,Home Decor,2.0,438,876.0,2026-01-08,Cash on Delivery,Pending,Bangalore
+ORD10328,CUST343,Jackets,Clothing,3.0,1187,3561.0,2026-02-04,Credit Card,Shipped,Delhi
+ORD10329,CUST137,Wireless Headphones,Electronics,2.0,286,572.0,2026-02-01,Cash on Delivery,Shipped,Delhi
+ORD10330,CUST206,Jeans,Clothing,5.0,565,2825.0,2026-03-22,Net Banking,Cancelled,Delhi
+ORD10331,CUST277,Wall Clock,Home Decor,4.0,1070,4280.0,2026-02-05,Cash on Delivery,Cancelled,Bangalore
+ORD10332,CUST270,T-Shirt,Clothing,1.0,953,953.0,2026-03-23,Cash on Delivery,Delivered,Delhi
+ORD10333,CUST182,Smartwatch,Electronics,2.0,1028,2056.0,2026-02-04,Cash on Delivery,Pending,Bangalore
+ORD10334,CUST125,Curtains,Home Decor,3.0,114,342.0,2026-01-06,Net Banking,Delivered,Delhi
+ORD10335,CUST151,Smartwatch,Electronics,4.0,16,64.0,2026-02-24,UPI,Pending,Bangalore
+ORD10336,CUST195,T-Shirt,Clothing,3.0,527,1581.0,2026-01-11,UPI,Delivered,Delhi
+ORD10337,CUST123,Table Lamp,Home Decor,2.0,894,1788.0,2026-03-25,Credit Card,Delivered,Kolkata
+ORD10338,CUST274,T-Shirt,Clothing,2.0,478,956.0,2026-03-08,Net Banking,Delivered,Mumbai
+ORD10339,CUST133,Table Lamp,Home Decor,1.0,879,879.0,2026-03-30,Net Banking,Delivered,Kolkata
+ORD10340,CUST194,T-Shirt,Clothing,1.0,226,226.0,2026-02-10,Cash on Delivery,Shipped,Delhi
+ORD10341,CUST102,Smartphone,Electronics,1.0,1101,1101.0,2026-03-14,UPI,Cancelled,Mumbai
+ORD10342,CUST275,Sofa Cover,Home Decor,2.0,858,1716.0,2026-03-20,Net Banking,Shipped,Delhi
+ORD10343,CUST346,Smartphone,Electronics,1.0,801,801.0,2026-02-14,Net Banking,Pending,Bangalore
+ORD10344,CUST253,Wireless Headphones,Electronics,1.0,523,523.0,2026-03-12,Cash on Delivery,Delivered,Chennai
+ORD10345,CUST113,Smartphone,Electronics,3.0,620,1860.0,2026-03-24,UPI,Cancelled,Delhi
+ORD10346,CUST327,Smartphone,Electronics,4.0,160,640.0,2026-03-09,Credit Card,Pending,Mumbai
+ORD10347,CUST239,Smartwatch,Electronics,5.0,876,4380.0,2026-02-16,UPI,Cancelled,Delhi
+ORD10348,CUST110,Laptop,Electronics,1.0,551,551.0,2026-01-28,Credit Card,Cancelled,Chennai
+ORD10349,CUST263,Curtains,Home Decor,4.0,838,3352.0,2026-01-11,UPI,Pending,Delhi
+ORD10350,CUST237,T-Shirt,Clothing,5.0,431,2155.0,2026-01-20,Cash on Delivery,Cancelled,Delhi
+ORD10351,CUST122,Sneakers,Clothing,2.0,133,266.0,2026-02-01,Net Banking,Delivered,Bangalore
+ORD10352,CUST103,Wall Clock,Home Decor,3.0,374,1122.0,2026-01-16,UPI,Delivered,Bangalore
+ORD10353,CUST142,Jackets,Clothing,5.0,1074,5370.0,2026-02-03,Cash on Delivery,Shipped,Chennai
+ORD10354,CUST169,Wall Clock,Home Decor,1.0,701,701.0,2026-02-24,Credit Card,Pending,Delhi
+ORD10355,CUST227,Sneakers,Clothing,5.0,752,3760.0,2026-01-08,UPI,Pending,Bangalore
+ORD10356,CUST289,T-Shirt,Clothing,5.0,251,1255.0,2026-01-30,Credit Card,Delivered,Mumbai
+ORD10357,CUST335,Laptop,Electronics,4.0,760,3040.0,2026-02-19,UPI,Shipped,Mumbai
+ORD10358,CUST206,Curtains,Home Decor,2.0,674,1348.0,2026-02-01,Cash on Delivery,Pending,Delhi
+ORD10359,CUST330,Table Lamp,Home Decor,1.0,1043,1043.0,2026-03-28,Credit Card,Shipped,Kolkata
+ORD10360,CUST321,Wall Clock,Home Decor,4.0,156,624.0,2026-03-01,Cash on Delivery,Pending,Mumbai
+ORD10361,CUST174,Smartwatch,Electronics,1.0,770,770.0,2026-01-26,Cash on Delivery,Shipped,Bangalore
+ORD10362,CUST138,Sneakers,Clothing,2.0,1134,2268.0,2026-02-01,Credit Card,Cancelled,Mumbai
+ORD10363,CUST294,Wireless Headphones,Electronics,1.0,701,701.0,2026-01-01,Net Banking,Pending,Delhi
+ORD10364,CUST348,Smartphone,Electronics,4.0,1022,4088.0,2026-01-08,UPI,Pending,Delhi
+ORD10365,CUST329,Smartphone,Electronics,5.0,860,4300.0,2026-03-31,Cash on Delivery,Cancelled,Delhi
+ORD10366,CUST309,Wall Clock,Home Decor,5.0,288,1440.0,2026-03-23,Net Banking,Delivered,Mumbai
+ORD10367,CUST317,Jeans,Clothing,2.0,612,1224.0,2026-02-03,Cash on Delivery,Cancelled,Mumbai
+ORD10368,CUST341,Sneakers,Clothing,3.0,493,1479.0,2026-01-10,UPI,Shipped,Delhi
+ORD10369,CUST180,Laptop,Electronics,2.0,935,1870.0,2026-03-01,Net Banking,Delivered,Mumbai
+ORD10370,CUST318,Smartwatch,Electronics,3.0,963,2889.0,2026-02-03,Credit Card,Delivered,Bangalore
+ORD10371,CUST313,Table Lamp,Home Decor,5.0,97,485.0,2026-01-28,Cash on Delivery,Shipped,Delhi
+ORD10372,CUST112,Sofa Cover,Home Decor,3.0,826,2478.0,2026-03-07,Cash on Delivery,Pending,Bangalore
+ORD10373,CUST163,Smartwatch,Electronics,4.0,1153,4612.0,2026-03-12,Credit Card,Cancelled,Delhi
+ORD10374,CUST133,Laptop,Electronics,3.0,141,423.0,2026-01-29,UPI,Cancelled,Mumbai
+ORD10375,CUST105,Wall Clock,Home Decor,5.0,545,2725.0,2026-01-10,Credit Card,Shipped,Bangalore
+ORD10376,CUST341,Laptop,Unknown,3.0,265,795.0,2026-01-06,Net Banking,Delivered,Bangalore
+ORD10377,CUST197,Curtains,Home Decor,4.0,1031,4124.0,2026-01-04,Net Banking,Shipped,Mumbai
+ORD10378,CUST326,Smartphone,Electronics,3.0,588,1764.0,2026-02-27,UPI,Delivered,Kolkata
+ORD10379,CUST222,Table Lamp,Home Decor,4.0,858,3432.0,2026-03-12,Credit Card,Delivered,Chennai
+ORD10380,CUST326,Jeans,Clothing,4.0,423,1692.0,2026-03-24,UPI,Delivered,Delhi
+ORD10381,CUST188,Table Lamp,Home Decor,4.0,1130,4520.0,2026-03-04,Cash on Delivery,Cancelled,Chennai
+ORD10382,CUST329,Laptop,Electronics,3.0,463,1389.0,2026-01-04,Cash on Delivery,Delivered,Bangalore
+ORD10383,CUST125,Table Lamp,Home Decor,5.0,491,2455.0,2026-01-21,UPI,Shipped,Chennai
+ORD10384,CUST190,Wall Clock,Home Decor,2.0,1194,2388.0,2026-02-19,UPI,Shipped,Kolkata
+ORD10385,CUST279,Table Lamp,Home Decor,3.0,72,216.0,2026-04-01,Cash on Delivery,Shipped,Kolkata
+ORD10386,CUST123,Jackets,Clothing,2.0,1019,2038.0,2026-01-05,Credit Card,Shipped,Kolkata
+ORD10387,CUST151,Smartwatch,Electronics,1.0,694,694.0,2026-03-20,UPI,Pending,Bangalore
+ORD10388,CUST280,T-Shirt,Clothing,1.0,317,317.0,2026-03-17,UPI,Delivered,Mumbai
+ORD10389,CUST177,Wireless Headphones,Electronics,4.0,221,884.0,2026-02-13,Cash on Delivery,Shipped,Bangalore
+ORD10390,CUST281,Curtains,Home Decor,4.0,664,2656.0,2026-01-23,Cash on Delivery,Shipped,Bangalore
+ORD10391,CUST286,Jackets,Clothing,3.0,275,825.0,2026-01-23,Credit Card,Cancelled,Mumbai
+ORD10392,CUST244,Wireless Headphones,Electronics,5.0,467,2335.0,2026-03-23,Credit Card,Cancelled,Bangalore
+ORD10393,CUST142,T-Shirt,Clothing,2.0,725,1450.0,2026-02-10,Credit Card,Pending,Bangalore
+ORD10394,CUST117,Wireless Headphones,Electronics,2.0,526,1052.0,2026-03-30,Cash on Delivery,Pending,Delhi
+ORD10395,CUST287,Wall Clock,Home Decor,1.0,805,805.0,2026-02-26,Net Banking,Shipped,Delhi
+ORD10396,CUST125,Sneakers,Clothing,3.0,1133,3399.0,2026-02-18,Net Banking,Shipped,Bangalore
+ORD10397,CUST181,T-Shirt,Clothing,1.0,618,618.0,2026-01-03,Cash on Delivery,Delivered,Delhi
+ORD10398,CUST240,Jeans,Clothing,4.0,344,1376.0,2026-01-10,Credit Card,Pending,Bangalore
+ORD10399,CUST327,Wall Clock,Home Decor,4.0,352,1408.0,2026-03-19,Net Banking,Shipped,Mumbai
+ORD10400,CUST278,Wireless Headphones,Electronics,2.0,404,808.0,2026-02-22,Cash on Delivery,Pending,Chennai
+ORD10401,CUST240,Laptop,Electronics,1.0,819,819.0,2026-03-15,Net Banking,Shipped,Mumbai
+ORD10402,CUST310,T-Shirt,Clothing,4.0,194,776.0,2026-02-07,Net Banking,Shipped,Delhi
+ORD10403,CUST221,Smartphone,Electronics,2.0,612,1224.0,2026-01-11,Credit Card,Pending,Delhi
+ORD10404,CUST239,Sneakers,Clothing,3.0,201,603.0,2026-03-24,Net Banking,Shipped,Mumbai
+ORD10405,CUST167,Jackets,Clothing,2.0,927,1854.0,2026-01-06,Net Banking,Cancelled,Chennai
+ORD10406,CUST292,Wireless Headphones,Electronics,5.0,141,705.0,2026-01-20,Credit Card,Delivered,Mumbai
+ORD10407,CUST115,Curtains,Home Decor,5.0,480,2400.0,2026-03-12,Net Banking,Cancelled,Bangalore
+ORD10408,CUST201,Sofa Cover,Home Decor,4.0,627,2508.0,2026-01-11,Credit Card,Shipped,Delhi
+ORD10409,CUST132,Jeans,Clothing,2.0,448,896.0,2026-01-25,Credit Card,Cancelled,Delhi
+ORD10410,CUST166,Curtains,Home Decor,2.0,317,634.0,2026-03-18,Cash on Delivery,Delivered,Delhi
+ORD10411,CUST233,Sneakers,Clothing,5.0,682,3410.0,2026-02-05,Net Banking,Delivered,Delhi
+ORD10412,CUST250,Smartwatch,Unknown,2.0,318,636.0,2026-03-14,Credit Card,Delivered,Delhi
+ORD10413,CUST267,Jackets,Clothing,4.0,555,2220.0,2026-02-19,Net Banking,Cancelled,Mumbai
+ORD10414,CUST255,Wireless Headphones,Electronics,4.0,309,1236.0,2026-03-21,Net Banking,Delivered,Delhi
+ORD10415,CUST329,Jeans,Clothing,1.0,988,988.0,2026-02-04,Cash on Delivery,Delivered,Mumbai
+ORD10416,CUST275,Jackets,Clothing,3.0,1021,3063.0,2026-03-31,Unknown,Shipped,Bangalore
+ORD10417,CUST254,Sneakers,Clothing,3.0,566,1698.0,2026-02-23,Credit Card,Shipped,Bangalore
+ORD10418,CUST310,Smartwatch,Electronics,4.0,1072,4288.0,2026-02-17,Credit Card,Shipped,Delhi
+ORD10419,CUST107,Sneakers,Clothing,2.0,1088,2176.0,2026-03-14,UPI,Shipped,Kolkata
+ORD10420,CUST335,Smartphone,Electronics,1.0,949,949.0,2026-01-07,Cash on Delivery,Shipped,Chennai
+ORD10421,CUST336,Sneakers,Clothing,5.0,827,4135.0,2026-03-23,Credit Card,Delivered,Kolkata
+ORD10422,CUST345,Sneakers,Clothing,5.0,928,4640.0,2026-01-23,Net Banking,Pending,Mumbai
+ORD10423,CUST198,Wireless Headphones,Electronics,1.0,598,598.0,2026-01-04,Credit Card,Shipped,Kolkata
+ORD10424,CUST204,Smartphone,Electronics,2.0,566,1132.0,2026-03-25,Credit Card,Delivered,Bangalore
+ORD10425,CUST164,Smartphone,Electronics,5.0,32,160.0,2026-01-29,Cash on Delivery,Pending,Delhi
+ORD10426,CUST219,Jackets,Clothing,4.0,531,2124.0,2026-01-28,Cash on Delivery,Cancelled,Delhi
+ORD10427,CUST275,Wireless Headphones,Electronics,5.0,593,2965.0,2026-02-08,Credit Card,Cancelled,Delhi
+ORD10428,CUST267,Jackets,Clothing,3.0,582,1746.0,2026-02-03,Cash on Delivery,Shipped,Bangalore
+ORD10429,CUST181,Sofa Cover,Home Decor,1.0,842,842.0,2026-03-26,UPI,Delivered,Bangalore
+ORD10430,CUST288,Jackets,Clothing,4.0,843,3372.0,2026-02-19,Credit Card,Shipped,Mumbai
+ORD10431,CUST191,Sofa Cover,Home Decor,5.0,989,4945.0,2026-03-27,Cash on Delivery,Shipped,Bangalore
+ORD10432,CUST285,T-Shirt,Clothing,4.0,277,1108.0,2026-02-03,UPI,Pending,Delhi
+ORD10433,CUST301,Wireless Headphones,Electronics,3.0,643,1929.0,2026-02-23,Cash on Delivery,Pending,Chennai
+ORD10434,CUST113,Table Lamp,Home Decor,4.0,256,1024.0,2026-03-02,Credit Card,Cancelled,Kolkata
+ORD10435,CUST205,Wall Clock,Home Decor,4.0,1100,4400.0,2026-02-08,Credit Card,Shipped,Bangalore
+ORD10436,CUST136,Wireless Headphones,Electronics,4.0,1181,4724.0,2026-02-28,Cash on Delivery,Shipped,Delhi
+ORD10437,CUST114,Jackets,Clothing,2.0,656,1312.0,2026-03-23,Credit Card,Cancelled,Chennai
+ORD10438,CUST301,Smartphone,Electronics,5.0,339,1695.0,2026-03-04,Credit Card,Shipped,Delhi
+ORD10439,CUST198,Curtains,Home Decor,4.0,893,3572.0,2026-03-03,Credit Card,Delivered,Kolkata
+ORD10440,CUST148,Table Lamp,Home Decor,1.0,674,674.0,2026-03-09,Credit Card,Delivered,Kolkata
+ORD10441,CUST198,Wireless Headphones,Electronics,3.0,279,837.0,2026-01-14,Cash on Delivery,Shipped,Delhi
+ORD10442,CUST252,Wireless Headphones,Electronics,3.0,948,2844.0,2026-03-08,Cash on Delivery,Cancelled,Bangalore
+ORD10443,CUST342,Sneakers,Clothing,3.0,400,1200.0,2026-01-22,Net Banking,Delivered,Kolkata
+ORD10444,CUST229,Smartphone,Electronics,2.0,59,118.0,2026-03-17,UPI,Delivered,Mumbai
+ORD10445,CUST259,Wall Clock,Home Decor,4.0,538,2152.0,2026-03-10,Credit Card,Delivered,Delhi
+ORD10446,CUST213,Wall Clock,Home Decor,3.0,252,756.0,2026-02-23,Net Banking,Delivered,Chennai
+ORD10447,CUST207,Jeans,Clothing,2.0,34,68.0,2026-02-08,Credit Card,Pending,Bangalore
+ORD10448,CUST129,T-Shirt,Clothing,5.0,256,1280.0,2026-02-06,Credit Card,Cancelled,Kolkata
+ORD10449,CUST191,Sofa Cover,Home Decor,3.0,1086,3258.0,2026-01-26,Unknown,Pending,Bangalore
+ORD10450,CUST160,Smartwatch,Electronics,2.0,999,1998.0,2026-02-12,Credit Card,Delivered,Delhi
+ORD10451,CUST119,Smartwatch,Electronics,2.0,199,398.0,2026-03-07,Credit Card,Pending,Kolkata
+ORD10452,CUST125,Jackets,Clothing,3.0,965,2895.0,2026-01-07,UPI,Delivered,Chennai
+ORD10453,CUST317,Jackets,Clothing,3.0,252,756.0,2026-01-13,Credit Card,Delivered,Bangalore
+ORD10454,CUST344,Sofa Cover,Home Decor,3.0,747,2241.0,2026-02-26,Cash on Delivery,Delivered,Mumbai
+ORD10455,CUST346,Jeans,Clothing,1.0,835,835.0,2026-02-21,Net Banking,Pending,Delhi
+ORD10456,CUST133,Curtains,Home Decor,4.0,356,1424.0,2026-01-15,Unknown,Shipped,Delhi
+ORD10457,CUST256,Sneakers,Clothing,5.0,912,4560.0,2026-01-24,Net Banking,Pending,Mumbai
+ORD10458,CUST327,Sofa Cover,Home Decor,4.0,1014,4056.0,2026-01-15,Net Banking,Cancelled,Mumbai
+ORD10459,CUST322,Wireless Headphones,Electronics,3.0,40,120.0,2026-04-01,UPI,Pending,Delhi
+ORD10460,CUST273,Jeans,Clothing,4.0,723,2892.0,2026-03-26,Net Banking,Shipped,Mumbai
+ORD10461,CUST322,Smartphone,Electronics,5.0,976,4880.0,2026-03-05,UPI,Delivered,Bangalore
+ORD10462,CUST229,Jeans,Unknown,3.0,584,1752.0,2026-01-07,UPI,Cancelled,Delhi
+ORD10463,CUST214,Laptop,Electronics,4.0,924,3696.0,2026-03-15,Credit Card,Cancelled,Bangalore
+ORD10464,CUST203,T-Shirt,Clothing,4.0,51,204.0,2026-01-14,Net Banking,Delivered,Mumbai
+ORD10465,CUST267,Wireless Headphones,Electronics,5.0,1166,5830.0,2026-01-27,Net Banking,Pending,Mumbai
+ORD10466,CUST296,Smartphone,Electronics,4.0,694,2776.0,2026-03-13,Net Banking,Pending,Bangalore
+ORD10467,CUST190,Laptop,Electronics,2.0,19,38.0,2026-02-13,Cash on Delivery,Pending,Delhi
+ORD10468,CUST127,Smartphone,Electronics,4.0,302,1208.0,2026-02-22,Cash on Delivery,Shipped,Kolkata
+ORD10469,CUST283,Smartwatch,Electronics,2.0,951,1902.0,2026-01-25,Cash on Delivery,Delivered,Delhi
+ORD10470,CUST250,Laptop,Electronics,4.0,951,3804.0,2026-03-26,UPI,Cancelled,Mumbai
+ORD10471,CUST223,Wall Clock,Home Decor,5.0,901,4505.0,2026-03-16,UPI,Shipped,Bangalore
+ORD10472,CUST325,Smartwatch,Electronics,3.0,674,2022.0,2026-03-06,Net Banking,Cancelled,Kolkata
+ORD10473,CUST306,Sneakers,Clothing,3.0,617,1851.0,2026-02-27,UPI,Shipped,Delhi
+ORD10474,CUST261,Table Lamp,Home Decor,5.0,657,3285.0,2026-03-12,UPI,Shipped,Kolkata
+ORD10475,CUST266,Table Lamp,Home Decor,3.0,286,858.0,2026-04-01,UPI,Pending,Delhi
+ORD10476,CUST281,Sneakers,Clothing,5.0,1183,5915.0,2026-03-27,Net Banking,Pending,Delhi
+ORD10477,CUST113,Laptop,Electronics,1.0,795,795.0,2026-01-19,Credit Card,Shipped,Chennai
+ORD10478,CUST276,Wireless Headphones,Electronics,3.0,314,942.0,2026-01-08,Cash on Delivery,Shipped,Mumbai
+ORD10479,CUST290,Sneakers,Clothing,1.0,1165,1165.0,2026-01-29,Net Banking,Shipped,Chennai
+ORD10480,CUST344,Wall Clock,Home Decor,4.0,808,3232.0,2026-02-23,Cash on Delivery,Delivered,Mumbai
+ORD10481,CUST333,Table Lamp,Home Decor,2.0,922,1844.0,2026-01-29,Cash on Delivery,Shipped,Kolkata
+ORD10482,CUST346,Sneakers,Clothing,2.0,167,334.0,2026-01-24,UPI,Delivered,Delhi
+ORD10483,CUST133,Smartwatch,Electronics,3.0,1154,3462.0,2026-02-03,UPI,Pending,Mumbai
+ORD10484,CUST337,Sneakers,Clothing,2.0,96,192.0,2026-01-20,Cash on Delivery,Delivered,Chennai
+ORD10485,CUST156,Jackets,Clothing,1.0,665,665.0,2026-03-09,UPI,Delivered,Bangalore
+ORD10486,CUST326,Sneakers,Clothing,1.0,730,730.0,2026-01-29,UPI,Pending,Mumbai
+ORD10487,CUST243,Jackets,Clothing,2.0,1101,2202.0,2026-03-02,Credit Card,Delivered,Mumbai
+ORD10488,CUST274,Jeans,Clothing,5.0,514,2570.0,2026-01-06,Cash on Delivery,Cancelled,Delhi
+ORD10489,CUST333,Jackets,Clothing,5.0,594,2970.0,2026-01-04,Cash on Delivery,Cancelled,Bangalore
+ORD10490,CUST121,Wireless Headphones,Electronics,2.0,671,1342.0,2026-03-07,Credit Card,Shipped,Mumbai
+ORD10491,CUST208,Wall Clock,Home Decor,2.0,451,902.0,2026-03-29,Credit Card,Shipped,Delhi
+ORD10492,CUST283,Wall Clock,Home Decor,2.0,63,126.0,2026-02-28,Cash on Delivery,Delivered,Delhi
+ORD10493,CUST118,Laptop,Electronics,2.0,530,1060.0,2026-03-13,UPI,Pending,Delhi
+ORD10494,CUST104,Sneakers,Clothing,3.0,901,2703.0,2026-02-10,Net Banking,Delivered,Mumbai
+ORD10495,CUST317,Wall Clock,Home Decor,5.0,108,540.0,2026-03-31,Credit Card,Pending,Delhi
+ORD10496,CUST295,Jackets,Clothing,3.0,192,576.0,2026-02-06,Net Banking,Cancelled,Delhi
+ORD10497,CUST156,Wall Clock,Home Decor,4.0,335,1340.0,2026-03-10,UPI,Cancelled,Chennai
+ORD10498,CUST241,Sofa Cover,Home Decor,3.0,779,2337.0,2026-01-02,Unknown,Delivered,Mumbai
+ORD10499,CUST178,Smartwatch,Electronics,5.0,1136,5680.0,2026-01-11,UPI,Pending,Kolkata
+ORD10500,CUST257,Jeans,Clothing,2.0,391,782.0,2026-01-29,Cash on Delivery,Shipped,Delhi
+ORD10501,CUST240,Laptop,Electronics,5.0,959,4795.0,2026-03-24,Credit Card,Pending,Delhi
+ORD10502,CUST191,T-Shirt,Clothing,3.0,1012,3036.0,2026-02-12,UPI,Shipped,Delhi
+ORD10503,CUST215,T-Shirt,Clothing,2.0,665,1330.0,2026-03-04,Cash on Delivery,Pending,Bangalore
+ORD10504,CUST101,Table Lamp,Home Decor,3.0,892,2676.0,2026-01-22,Cash on Delivery,Shipped,Kolkata
+ORD10505,CUST273,Curtains,Home Decor,3.0,751,2253.0,2026-01-18,Cash on Delivery,Cancelled,Bangalore
+ORD10506,CUST127,Jackets,Clothing,3.0,1012,3036.0,2026-03-12,UPI,Delivered,Chennai
+ORD10507,CUST328,Smartphone,Electronics,3.0,171,513.0,2026-01-10,Credit Card,Delivered,Delhi
+ORD10508,CUST239,Sofa Cover,Home Decor,1.0,1144,1144.0,2026-02-03,Net Banking,Shipped,Mumbai
+ORD10509,CUST218,Jeans,Clothing,5.0,610,3050.0,2026-01-18,Credit Card,Cancelled,Mumbai
+ORD10510,CUST135,Wall Clock,Home Decor,2.0,354,708.0,2026-03-07,Net Banking,Shipped,Bangalore
+ORD10511,CUST156,Sofa Cover,Home Decor,4.0,749,2996.0,2026-01-06,Net Banking,Shipped,Delhi
+ORD10512,CUST152,Jackets,Clothing,2.0,102,204.0,2026-03-27,Cash on Delivery,Cancelled,Bangalore
+ORD10513,CUST280,T-Shirt,Clothing,1.0,678,678.0,2026-01-14,Cash on Delivery,Pending,Bangalore
+ORD10514,CUST164,Sneakers,Clothing,3.0,174,522.0,2026-03-08,Unknown,Shipped,Delhi
+ORD10515,CUST101,Jackets,Unknown,4.0,1002,4008.0,2026-03-19,UPI,Cancelled,Bangalore
+ORD10516,CUST138,Laptop,Electronics,5.0,590,2950.0,2026-01-28,UPI,Shipped,Mumbai
+ORD10517,CUST284,Wall Clock,Home Decor,2.0,864,1728.0,2026-02-12,Credit Card,Cancelled,Bangalore
+ORD10518,CUST313,Jeans,Clothing,5.0,345,1725.0,2026-03-24,Net Banking,Delivered,Kolkata
+ORD10519,CUST261,Smartphone,Electronics,5.0,344,1720.0,2026-01-18,Credit Card,Shipped,Mumbai
+ORD10520,CUST253,Wireless Headphones,Electronics,2.0,1073,2146.0,2026-02-21,Credit Card,Pending,Delhi
+ORD10521,CUST143,Smartwatch,Electronics,5.0,980,4900.0,2026-03-03,UPI,Cancelled,Bangalore
+ORD10522,CUST142,Sofa Cover,Home Decor,5.0,1061,5305.0,2026-02-03,Cash on Delivery,Cancelled,Delhi
+ORD10523,CUST104,Smartwatch,Electronics,4.0,285,1140.0,2026-01-14,UPI,Cancelled,Bangalore
+ORD10524,CUST253,Wall Clock,Home Decor,2.0,989,1978.0,2026-03-20,Credit Card,Delivered,Delhi
+ORD10525,CUST329,Jeans,Clothing,5.0,1119,5595.0,2026-01-01,Net Banking,Cancelled,Mumbai
+ORD10526,CUST189,Smartwatch,Electronics,2.0,1002,2004.0,2026-02-18,Credit Card,Cancelled,Bangalore
+ORD10527,CUST253,Sneakers,Clothing,2.0,186,372.0,2026-02-06,Net Banking,Pending,Kolkata
+ORD10528,CUST233,Laptop,Electronics,5.0,1085,5425.0,2026-01-16,Credit Card,Cancelled,Kolkata
+ORD10529,CUST139,Table Lamp,Home Decor,4.0,756,3024.0,2026-01-14,Net Banking,Pending,Chennai
+ORD10530,CUST170,Curtains,Home Decor,5.0,763,3815.0,2026-03-20,Unknown,Shipped,Delhi
+ORD10531,CUST242,Curtains,Home Decor,2.0,773,1546.0,2026-03-13,Net Banking,Pending,Chennai
+ORD10532,CUST130,Table Lamp,Home Decor,4.0,297,1188.0,2026-03-26,UPI,Cancelled,Bangalore
+ORD10533,CUST305,Smartphone,Electronics,5.0,835,4175.0,2026-02-13,Credit Card,Shipped,Delhi
+ORD10534,CUST337,Wall Clock,Home Decor,1.0,312,312.0,2026-03-02,Net Banking,Delivered,Delhi
+ORD10535,CUST109,Jeans,Clothing,3.0,178,534.0,2026-03-19,Net Banking,Cancelled,Chennai
+ORD10536,CUST102,Wall Clock,Home Decor,2.0,1027,2054.0,2026-02-26,UPI,Pending,Kolkata
+ORD10537,CUST109,Smartphone,Electronics,3.0,362,1086.0,2026-03-28,Cash on Delivery,Shipped,Mumbai
+ORD10538,CUST271,Laptop,Electronics,3.0,833,2499.0,2026-02-15,Net Banking,Cancelled,Kolkata
+ORD10539,CUST172,Wall Clock,Home Decor,1.0,199,199.0,2026-03-12,Cash on Delivery,Pending,Chennai
+ORD10540,CUST101,Smartphone,Electronics,4.0,842,3368.0,2026-03-15,Cash on Delivery,Shipped,Delhi
+ORD10541,CUST175,Wall Clock,Home Decor,5.0,163,815.0,2026-03-06,Cash on Delivery,Delivered,Chennai
+ORD10542,CUST223,Table Lamp,Home Decor,4.0,787,3148.0,2026-03-14,UPI,Pending,Bangalore
+ORD10543,CUST129,Curtains,Home Decor,5.0,71,355.0,2026-03-03,Cash on Delivery,Delivered,Delhi
+ORD10544,CUST344,Sofa Cover,Home Decor,2.0,661,1322.0,2026-02-22,Cash on Delivery,Delivered,Chennai
+ORD10545,CUST291,Wireless Headphones,Electronics,1.0,832,832.0,2026-03-28,Cash on Delivery,Delivered,Bangalore
+ORD10546,CUST168,Jackets,Unknown,3.0,462,1386.0,2026-03-15,UPI,Shipped,Bangalore
+ORD10547,CUST152,Sofa Cover,Home Decor,2.0,510,1020.0,2026-02-03,UPI,Shipped,Kolkata
+ORD10548,CUST335,Table Lamp,Home Decor,2.0,233,466.0,2026-01-16,Credit Card,Cancelled,Mumbai
+ORD10549,CUST180,Wall Clock,Home Decor,4.0,775,3100.0,2026-03-21,Net Banking,Pending,Bangalore
+ORD10550,CUST132,Wireless Headphones,Electronics,4.0,469,1876.0,2026-03-15,Credit Card,Cancelled,Bangalore
+ORD10551,CUST320,Wall Clock,Home Decor,5.0,726,3630.0,2026-02-20,UPI,Cancelled,Delhi
+ORD10552,CUST272,Curtains,Home Decor,3.0,32,96.0,2026-01-02,UPI,Cancelled,Delhi
+ORD10553,CUST240,Jackets,Clothing,5.0,546,2730.0,2026-01-24,Cash on Delivery,Shipped,Chennai
+ORD10554,CUST208,Jackets,Clothing,3.0,391,1173.0,2026-03-05,UPI,Cancelled,Mumbai
+ORD10555,CUST246,Sneakers,Clothing,3.0,938,2814.0,2026-01-24,UPI,Shipped,Delhi
+ORD10556,CUST319,Table Lamp,Home Decor,2.0,1152,2304.0,2026-02-25,Net Banking,Shipped,Bangalore
+ORD10557,CUST207,Sofa Cover,Home Decor,4.0,34,136.0,2026-01-23,Net Banking,Shipped,Mumbai
+ORD10558,CUST112,Jackets,Clothing,3.0,1166,3498.0,2026-03-14,Net Banking,Delivered,Bangalore
+ORD10559,CUST124,Smartphone,Electronics,3.0,990,2970.0,2026-03-22,Net Banking,Pending,Chennai
+ORD10560,CUST188,Jackets,Clothing,5.0,1156,5780.0,2026-02-02,Credit Card,Cancelled,Delhi
+ORD10561,CUST266,Jeans,Clothing,5.0,1194,5970.0,2026-03-25,UPI,Pending,Mumbai
+ORD10562,CUST257,Sneakers,Clothing,4.0,175,700.0,2026-02-18,Cash on Delivery,Cancelled,Bangalore
+ORD10563,CUST317,Wireless Headphones,Electronics,4.0,1185,4740.0,2026-02-21,Credit Card,Delivered,Bangalore
+ORD10564,CUST174,Jeans,Clothing,3.0,663,1989.0,2026-03-25,Cash on Delivery,Cancelled,Chennai
+ORD10565,CUST205,Jackets,Clothing,5.0,1081,5405.0,2026-02-27,UPI,Shipped,Mumbai
+ORD10566,CUST142,Smartphone,Electronics,3.0,178,534.0,2026-01-27,Net Banking,Delivered,Delhi
+ORD10567,CUST297,Smartwatch,Electronics,5.0,125,625.0,2026-01-04,Net Banking,Delivered,Delhi
+ORD10568,CUST158,Jeans,Clothing,1.0,813,813.0,2026-02-09,UPI,Pending,Bangalore
+ORD10569,CUST107,Sofa Cover,Home Decor,2.0,1093,2186.0,2026-01-22,Credit Card,Pending,Mumbai
+ORD10570,CUST213,Sneakers,Clothing,5.0,572,2860.0,2026-03-12,UPI,Shipped,Bangalore
+ORD10571,CUST332,Curtains,Home Decor,5.0,1108,5540.0,2026-02-09,Cash on Delivery,Cancelled,Kolkata
+ORD10572,CUST166,Smartwatch,Electronics,3.0,764,2292.0,2026-02-22,UPI,Pending,Mumbai
+ORD10573,CUST236,Smartphone,Electronics,3.0,602,1806.0,2026-03-02,Credit Card,Cancelled,Bangalore
+ORD10574,CUST159,T-Shirt,Clothing,4.0,614,2456.0,2026-03-18,Credit Card,Pending,Kolkata
+ORD10575,CUST283,Sneakers,Clothing,4.0,526,2104.0,2026-01-21,Net Banking,Cancelled,Kolkata
+ORD10576,CUST295,T-Shirt,Clothing,4.0,505,2020.0,2026-03-08,Cash on Delivery,Pending,Chennai
+ORD10577,CUST174,Jeans,Clothing,3.0,388,1164.0,2026-01-18,Credit Card,Cancelled,Bangalore
+ORD10578,CUST138,Sneakers,Clothing,2.0,671,1342.0,2026-01-03,Unknown,Delivered,Bangalore
+ORD10579,CUST286,Wireless Headphones,Electronics,3.0,271,813.0,2026-02-26,Credit Card,Shipped,Delhi
+ORD10580,CUST207,Laptop,Electronics,4.0,459,1836.0,2026-02-13,Cash on Delivery,Cancelled,Mumbai
+ORD10581,CUST114,T-Shirt,Clothing,3.0,179,537.0,2026-01-19,Cash on Delivery,Cancelled,Delhi
+ORD10582,CUST309,Curtains,Home Decor,2.0,408,816.0,2026-02-02,Net Banking,Delivered,Delhi
+ORD10583,CUST288,Sofa Cover,Home Decor,4.0,922,3688.0,2026-02-01,Credit Card,Shipped,Bangalore
+ORD10584,CUST199,Wall Clock,Home Decor,5.0,441,2205.0,2026-03-02,Cash on Delivery,Pending,Bangalore
+ORD10585,CUST164,Wall Clock,Home Decor,5.0,1081,5405.0,2026-01-16,Net Banking,Pending,Kolkata
+ORD10586,CUST262,T-Shirt,Clothing,2.0,246,492.0,2026-01-31,Unknown,Pending,Mumbai
+ORD10587,CUST302,Wireless Headphones,Electronics,5.0,260,1300.0,2026-02-20,UPI,Delivered,Mumbai
+ORD10588,CUST297,Curtains,Home Decor,5.0,332,1660.0,2026-02-17,Credit Card,Shipped,Bangalore
+ORD10589,CUST115,T-Shirt,Clothing,3.0,708,2124.0,2026-03-22,Credit Card,Pending,Bangalore
+ORD10590,CUST181,Wall Clock,Home Decor,2.0,1014,2028.0,2026-01-30,Cash on Delivery,Cancelled,Kolkata
+ORD10591,CUST330,Smartwatch,Electronics,3.0,290,870.0,2026-02-02,Credit Card,Cancelled,Bangalore
+ORD10592,CUST245,Table Lamp,Home Decor,5.0,1018,5090.0,2026-01-25,UPI,Pending,Mumbai
+ORD10593,CUST117,Curtains,Home Decor,3.0,1150,3450.0,2026-01-21,UPI,Cancelled,Chennai
+ORD10594,CUST229,Jackets,Clothing,4.0,16,64.0,2026-03-23,Net Banking,Shipped,Mumbai
+ORD10595,CUST284,Table Lamp,Home Decor,5.0,504,2520.0,2026-02-11,Credit Card,Cancelled,Kolkata
+ORD10596,CUST172,Curtains,Home Decor,5.0,330,1650.0,2026-03-20,Cash on Delivery,Cancelled,Mumbai
+ORD10597,CUST313,Laptop,Electronics,5.0,151,755.0,2026-01-06,UPI,Shipped,Mumbai
+ORD10598,CUST108,Laptop,Electronics,3.0,407,1221.0,2026-01-13,Net Banking,Cancelled,Chennai
+ORD10599,CUST338,Wireless Headphones,Electronics,2.0,160,320.0,2026-01-02,UPI,Cancelled,Delhi
+ORD10600,CUST310,T-Shirt,Clothing,3.0,1157,3471.0,2026-02-23,Cash on Delivery,Delivered,Chennai
+ORD10601,CUST341,Wall Clock,Home Decor,1.0,637,637.0,2026-01-10,UPI,Delivered,Delhi
+ORD10602,CUST149,Sofa Cover,Home Decor,5.0,804,4020.0,2026-01-25,UPI,Shipped,Delhi
+ORD10603,CUST217,Wall Clock,Home Decor,5.0,748,3740.0,2026-03-28,Net Banking,Delivered,Bangalore
+ORD10604,CUST140,Smartwatch,Electronics,5.0,706,3530.0,2026-03-26,Net Banking,Pending,Mumbai
+ORD10605,CUST210,Table Lamp,Home Decor,3.0,859,2577.0,2026-03-23,Cash on Delivery,Shipped,Kolkata
+ORD10606,CUST345,Jackets,Clothing,3.0,941,2823.0,2026-02-27,Unknown,Delivered,Mumbai
+ORD10607,CUST101,T-Shirt,Clothing,5.0,291,1455.0,2026-02-08,Cash on Delivery,Shipped,Kolkata
+ORD10608,CUST242,T-Shirt,Clothing,3.0,1148,3444.0,2026-03-07,UPI,Delivered,Mumbai
+ORD10609,CUST193,Jackets,Clothing,2.0,298,596.0,2026-02-03,UPI,Shipped,Chennai
+ORD10610,CUST334,T-Shirt,Clothing,5.0,833,4165.0,2026-03-14,UPI,Delivered,Mumbai
+ORD10611,CUST252,Jeans,Clothing,4.0,1195,4780.0,2026-01-13,Cash on Delivery,Delivered,Delhi
+ORD10612,CUST206,Laptop,Electronics,3.0,727,2181.0,2026-02-25,Credit Card,Shipped,Mumbai
+ORD10613,CUST110,Curtains,Home Decor,1.0,639,639.0,2026-03-09,Cash on Delivery,Shipped,Mumbai
+ORD10614,CUST287,Sofa Cover,Home Decor,3.0,118,354.0,2026-03-28,Net Banking,Cancelled,Delhi
+ORD10615,CUST133,Smartwatch,Electronics,3.0,822,2466.0,2026-01-19,Cash on Delivery,Delivered,Bangalore
+ORD10616,CUST121,Wall Clock,Home Decor,5.0,832,4160.0,2026-02-03,Net Banking,Cancelled,Bangalore
+ORD10617,CUST201,Smartwatch,Electronics,5.0,420,2100.0,2026-03-04,UPI,Shipped,Kolkata
+ORD10618,CUST336,Wireless Headphones,Electronics,4.0,677,2708.0,2026-03-29,Credit Card,Delivered,Delhi
+ORD10619,CUST188,Jackets,Clothing,3.0,405,1215.0,2026-02-11,Credit Card,Pending,Bangalore
+ORD10620,CUST111,Sneakers,Clothing,5.0,313,1565.0,2026-02-26,UPI,Shipped,Mumbai
+ORD10621,CUST342,Laptop,Electronics,1.0,126,126.0,2026-02-01,UPI,Pending,Mumbai
+ORD10622,CUST105,T-Shirt,Clothing,3.0,936,2808.0,2026-03-02,Cash on Delivery,Shipped,Kolkata
+ORD10623,CUST286,Wireless Headphones,Electronics,5.0,1004,5020.0,2026-03-21,UPI,Delivered,Delhi
+ORD10624,CUST172,Wall Clock,Home Decor,3.0,363,1089.0,2026-01-08,UPI,Pending,Mumbai
+ORD10625,CUST169,T-Shirt,Clothing,1.0,810,810.0,2026-03-26,Cash on Delivery,Delivered,Mumbai
+ORD10626,CUST350,Sneakers,Clothing,2.0,794,1588.0,2026-03-07,Credit Card,Pending,Bangalore
+ORD10627,CUST347,Wall Clock,Home Decor,2.0,422,844.0,2026-03-06,Net Banking,Delivered,Mumbai
+ORD10628,CUST290,Wireless Headphones,Electronics,3.0,1018,3054.0,2026-02-20,UPI,Delivered,Mumbai
+ORD10629,CUST350,Table Lamp,Home Decor,3.0,634,1902.0,2026-01-31,Cash on Delivery,Delivered,Chennai
+ORD10630,CUST138,T-Shirt,Clothing,5.0,588,2940.0,2026-01-29,Cash on Delivery,Cancelled,Bangalore
+ORD10631,CUST161,Smartwatch,Electronics,5.0,480,2400.0,2026-02-23,UPI,Cancelled,Chennai
+ORD10632,CUST152,Table Lamp,Home Decor,4.0,1125,4500.0,2026-01-17,UPI,Shipped,Bangalore
+ORD10633,CUST338,Jeans,Clothing,4.0,312,1248.0,2026-03-25,UPI,Pending,Delhi
+ORD10634,CUST286,Wall Clock,Home Decor,2.0,665,1330.0,2026-01-19,Credit Card,Pending,Delhi
+ORD10635,CUST299,Jackets,Clothing,4.0,575,2300.0,2026-01-20,UPI,Delivered,Bangalore
+ORD10636,CUST245,Laptop,Electronics,5.0,561,2805.0,2026-03-19,UPI,Shipped,Kolkata
+ORD10637,CUST299,Wall Clock,Home Decor,3.0,177,531.0,2026-03-30,Net Banking,Shipped,Bangalore
+ORD10638,CUST221,Table Lamp,Home Decor,2.0,808,1616.0,2026-03-04,UPI,Shipped,Kolkata
+ORD10639,CUST343,Laptop,Unknown,4.0,45,180.0,2026-02-04,Net Banking,Shipped,Kolkata
+ORD10640,CUST225,Laptop,Unknown,2.0,914,1828.0,2026-03-20,Cash on Delivery,Cancelled,Kolkata
+ORD10641,CUST200,Sneakers,Clothing,1.0,794,794.0,2026-02-10,Credit Card,Delivered,Bangalore
+ORD10642,CUST201,T-Shirt,Clothing,2.0,1077,2154.0,2026-03-10,Unknown,Cancelled,Mumbai
+ORD10643,CUST298,Wireless Headphones,Electronics,4.0,830,3320.0,2026-02-08,Cash on Delivery,Cancelled,Bangalore
+ORD10644,CUST232,Jackets,Clothing,3.0,126,378.0,2026-03-30,UPI,Cancelled,Bangalore
+ORD10645,CUST200,Laptop,Electronics,2.0,1134,2268.0,2026-01-18,Net Banking,Pending,Bangalore
+ORD10646,CUST123,Smartphone,Unknown,4.0,428,1712.0,2026-02-28,Cash on Delivery,Pending,Bangalore
+ORD10647,CUST215,Wall Clock,Home Decor,3.0,248,744.0,2026-04-01,Cash on Delivery,Delivered,Delhi
+ORD10648,CUST111,Sofa Cover,Home Decor,4.0,1142,4568.0,2026-02-18,UPI,Pending,Bangalore
+ORD10649,CUST178,Smartphone,Electronics,2.0,120,240.0,2026-02-23,Cash on Delivery,Cancelled,Chennai
+ORD10650,CUST100,Sofa Cover,Unknown,1.0,284,284.0,2026-01-26,Cash on Delivery,Delivered,Bangalore
+ORD10651,CUST325,Sneakers,Clothing,5.0,26,130.0,2026-03-19,Net Banking,Shipped,Kolkata
+ORD10652,CUST120,Curtains,Home Decor,4.0,854,3416.0,2026-02-26,Unknown,Shipped,Chennai
+ORD10653,CUST114,Sofa Cover,Home Decor,1.0,393,393.0,2026-01-19,Cash on Delivery,Delivered,Bangalore
+ORD10654,CUST127,Wireless Headphones,Electronics,3.0,194,582.0,2026-01-07,Net Banking,Shipped,Bangalore
+ORD10655,CUST145,Table Lamp,Home Decor,5.0,1187,5935.0,2026-03-13,Net Banking,Pending,Mumbai
+ORD10656,CUST309,Wireless Headphones,Electronics,3.0,769,2307.0,2026-02-18,Credit Card,Cancelled,Delhi
+ORD10657,CUST320,Sneakers,Clothing,2.0,264,528.0,2026-03-30,Cash on Delivery,Pending,Delhi
+ORD10658,CUST246,Sofa Cover,Unknown,2.0,134,268.0,2026-01-14,Credit Card,Cancelled,Chennai
+ORD10659,CUST259,Jackets,Clothing,3.0,1091,3273.0,2026-03-15,Cash on Delivery,Shipped,Bangalore
+ORD10660,CUST159,Curtains,Home Decor,4.0,383,1532.0,2026-03-20,Cash on Delivery,Shipped,Mumbai
+ORD10661,CUST304,Laptop,Electronics,4.0,256,1024.0,2026-01-27,Net Banking,Cancelled,Mumbai
+ORD10662,CUST263,Jackets,Clothing,5.0,449,2245.0,2026-01-02,UPI,Pending,Chennai
+ORD10663,CUST182,Wireless Headphones,Electronics,3.0,1052,3156.0,2026-03-12,Credit Card,Delivered,Mumbai
+ORD10664,CUST149,Sneakers,Clothing,5.0,74,370.0,2026-01-23,Cash on Delivery,Pending,Bangalore
+ORD10665,CUST260,T-Shirt,Clothing,2.0,1001,2002.0,2026-01-20,Net Banking,Pending,Bangalore
+ORD10666,CUST285,T-Shirt,Clothing,5.0,628,3140.0,2026-03-14,Cash on Delivery,Delivered,Kolkata
+ORD10667,CUST171,Table Lamp,Home Decor,3.0,150,450.0,2026-01-20,Credit Card,Pending,Delhi
+ORD10668,CUST252,Sofa Cover,Home Decor,5.0,812,4060.0,2026-01-24,Credit Card,Pending,Mumbai
+ORD10669,CUST227,Wall Clock,Home Decor,3.0,862,2586.0,2026-01-12,UPI,Pending,Bangalore
+ORD10670,CUST128,Jeans,Clothing,5.0,634,3170.0,2026-01-23,Cash on Delivery,Delivered,Kolkata
+ORD10671,CUST331,Smartwatch,Electronics,5.0,66,330.0,2026-03-03,UPI,Shipped,Mumbai
+ORD10672,CUST310,Jackets,Clothing,3.0,308,924.0,2026-01-13,UPI,Shipped,Mumbai
+ORD10673,CUST179,Sneakers,Clothing,5.0,252,1260.0,2026-01-01,Credit Card,Delivered,Mumbai
+ORD10674,CUST290,T-Shirt,Clothing,1.0,1081,1081.0,2026-03-26,Cash on Delivery,Delivered,Chennai
+ORD10675,CUST173,Sofa Cover,Home Decor,3.0,425,1275.0,2026-01-25,Cash on Delivery,Pending,Bangalore
+ORD10676,CUST170,Wall Clock,Home Decor,3.0,320,960.0,2026-01-21,Credit Card,Delivered,Delhi
+ORD10677,CUST136,Wireless Headphones,Electronics,5.0,667,3335.0,2026-02-04,Cash on Delivery,Shipped,Bangalore
+ORD10678,CUST213,Wireless Headphones,Unknown,5.0,708,3540.0,2026-03-11,Credit Card,Shipped,Mumbai
+ORD10679,CUST122,T-Shirt,Clothing,1.0,800,800.0,2026-01-07,Net Banking,Cancelled,Bangalore
+ORD10680,CUST185,Curtains,Home Decor,5.0,743,3715.0,2026-02-09,UPI,Delivered,Bangalore
+ORD10681,CUST216,Sofa Cover,Home Decor,1.0,974,974.0,2026-01-13,Cash on Delivery,Cancelled,Bangalore
+ORD10682,CUST200,Smartphone,Unknown,2.0,543,1086.0,2026-02-16,UPI,Pending,Mumbai
+ORD10683,CUST128,Sneakers,Unknown,1.0,148,148.0,2026-03-02,Cash on Delivery,Cancelled,Bangalore
+ORD10684,CUST230,Wireless Headphones,Electronics,3.0,1191,3573.0,2026-01-17,Credit Card,Cancelled,Delhi
+ORD10685,CUST202,T-Shirt,Clothing,3.0,1106,3318.0,2026-03-01,Net Banking,Shipped,Kolkata
+ORD10686,CUST187,Sofa Cover,Home Decor,4.0,801,3204.0,2026-01-09,UPI,Cancelled,Delhi
+ORD10687,CUST269,Table Lamp,Home Decor,5.0,498,2490.0,2026-01-23,Unknown,Cancelled,Delhi
+ORD10688,CUST310,Curtains,Home Decor,3.0,1151,3453.0,2026-01-13,Net Banking,Shipped,Chennai
+ORD10689,CUST308,T-Shirt,Clothing,5.0,237,1185.0,2026-03-29,Net Banking,Pending,Bangalore
+ORD10690,CUST327,Wall Clock,Home Decor,1.0,460,460.0,2026-01-18,Credit Card,Shipped,Bangalore
+ORD10691,CUST150,Jackets,Clothing,3.0,1198,3594.0,2026-02-27,UPI,Pending,Chennai
+ORD10692,CUST249,Table Lamp,Home Decor,4.0,720,2880.0,2026-01-12,Unknown,Cancelled,Bangalore
+ORD10693,CUST100,T-Shirt,Clothing,3.0,1139,3417.0,2026-01-07,Cash on Delivery,Delivered,Chennai
+ORD10694,CUST181,Smartphone,Electronics,4.0,822,3288.0,2026-03-22,Net Banking,Cancelled,Delhi
+ORD10695,CUST148,Jeans,Clothing,2.0,987,1974.0,2026-01-18,Net Banking,Pending,Delhi
+ORD10696,CUST118,Wireless Headphones,Electronics,2.0,290,580.0,2026-01-02,Credit Card,Shipped,Bangalore
+ORD10697,CUST264,Curtains,Home Decor,2.0,188,376.0,2026-01-18,Net Banking,Cancelled,Delhi
+ORD10698,CUST241,Sofa Cover,Home Decor,4.0,1058,4232.0,2026-02-24,Net Banking,Cancelled,Mumbai
+ORD10699,CUST227,Smartphone,Electronics,4.0,30,120.0,2026-03-15,UPI,Pending,Delhi
+ORD10700,CUST223,Table Lamp,Home Decor,1.0,92,92.0,2026-03-14,Cash on Delivery,Delivered,Bangalore
+ORD10701,CUST219,Wall Clock,Home Decor,2.0,1093,2186.0,2026-02-05,Credit Card,Delivered,Kolkata
+ORD10702,CUST113,T-Shirt,Clothing,3.0,654,1962.0,2026-03-20,Cash on Delivery,Delivered,Bangalore
+ORD10703,CUST190,Sneakers,Clothing,5.0,693,3465.0,2026-02-23,Cash on Delivery,Pending,Bangalore
+ORD10704,CUST261,Wireless Headphones,Electronics,5.0,548,2740.0,2026-01-08,Net Banking,Shipped,Mumbai
+ORD10705,CUST224,Table Lamp,Home Decor,5.0,70,350.0,2026-02-06,Credit Card,Shipped,Delhi
+ORD10706,CUST319,Jackets,Clothing,2.0,590,1180.0,2026-02-05,Cash on Delivery,Delivered,Delhi
+ORD10707,CUST214,Sofa Cover,Home Decor,5.0,324,1620.0,2026-03-26,Cash on Delivery,Shipped,Chennai
+ORD10708,CUST320,Sofa Cover,Home Decor,4.0,385,1540.0,2026-03-09,Credit Card,Pending,Delhi
+ORD10709,CUST160,Smartphone,Electronics,4.0,860,3440.0,2026-02-19,Net Banking,Shipped,Kolkata
+ORD10710,CUST113,Table Lamp,Home Decor,1.0,556,556.0,2026-01-15,UPI,Cancelled,Delhi
+ORD10711,CUST197,Jackets,Clothing,4.0,1105,4420.0,2026-01-30,Net Banking,Cancelled,Chennai
+ORD10712,CUST197,Smartwatch,Electronics,1.0,606,606.0,2026-02-27,Cash on Delivery,Delivered,Delhi
+ORD10713,CUST169,Table Lamp,Home Decor,4.0,573,2292.0,2026-02-12,Cash on Delivery,Delivered,Chennai
+ORD10714,CUST250,Curtains,Home Decor,4.0,510,2040.0,2026-03-28,UPI,Pending,Bangalore
+ORD10715,CUST205,T-Shirt,Clothing,1.0,154,154.0,2026-01-02,Credit Card,Delivered,Bangalore
+ORD10716,CUST108,Jeans,Clothing,3.0,530,1590.0,2026-01-25,Credit Card,Delivered,Mumbai
+ORD10717,CUST345,Sofa Cover,Home Decor,5.0,264,1320.0,2026-04-01,Credit Card,Delivered,Bangalore
+ORD10718,CUST175,Jeans,Clothing,3.0,392,1176.0,2026-02-02,Net Banking,Delivered,Bangalore
+ORD10719,CUST299,Sneakers,Clothing,3.0,542,1626.0,2026-01-21,Credit Card,Pending,Mumbai
+ORD10720,CUST344,Sneakers,Clothing,3.0,138,414.0,2026-02-03,Cash on Delivery,Shipped,Bangalore
+ORD10721,CUST265,Smartwatch,Electronics,3.0,819,2457.0,2026-01-23,Net Banking,Delivered,Bangalore
+ORD10722,CUST283,Curtains,Home Decor,2.0,232,464.0,2026-02-26,Cash on Delivery,Delivered,Mumbai
+ORD10723,CUST104,Laptop,Electronics,5.0,528,2640.0,2026-02-27,Net Banking,Shipped,Mumbai
+ORD10724,CUST184,Smartwatch,Electronics,3.0,325,975.0,2026-03-31,Net Banking,Delivered,Bangalore
+ORD10725,CUST157,Sneakers,Clothing,4.0,158,632.0,2026-03-11,Credit Card,Cancelled,Bangalore
+ORD10726,CUST114,Wireless Headphones,Unknown,3.0,635,1905.0,2026-02-21,Credit Card,Pending,Mumbai
+ORD10727,CUST241,Smartwatch,Electronics,3.0,430,1290.0,2026-01-23,Credit Card,Cancelled,Kolkata
+ORD10728,CUST121,Sneakers,Clothing,1.0,750,750.0,2026-03-04,Net Banking,Shipped,Bangalore
+ORD10729,CUST199,Smartphone,Electronics,1.0,503,503.0,2026-03-04,Credit Card,Pending,Bangalore
+ORD10730,CUST114,Curtains,Home Decor,1.0,90,90.0,2026-02-13,Cash on Delivery,Delivered,Delhi
+ORD10731,CUST322,Smartphone,Electronics,5.0,953,4765.0,2026-03-28,UPI,Shipped,Delhi
+ORD10732,CUST332,Smartphone,Electronics,4.0,54,216.0,2026-03-02,Credit Card,Shipped,Bangalore
+ORD10733,CUST216,Smartphone,Electronics,1.0,644,644.0,2026-01-13,UPI,Delivered,Delhi
+ORD10734,CUST305,Smartwatch,Electronics,5.0,466,2330.0,2026-01-09,UPI,Cancelled,Mumbai
+ORD10735,CUST247,Curtains,Home Decor,3.0,262,786.0,2026-03-29,UPI,Pending,Kolkata
+ORD10736,CUST170,Smartphone,Electronics,3.0,144,432.0,2026-01-16,UPI,Cancelled,Bangalore
+ORD10737,CUST162,Table Lamp,Unknown,5.0,352,1760.0,2026-02-26,Credit Card,Shipped,Delhi
+ORD10738,CUST120,Curtains,Home Decor,2.0,47,94.0,2026-03-04,Credit Card,Delivered,Bangalore
+ORD10739,CUST132,Wireless Headphones,Electronics,4.0,989,3956.0,2026-03-30,UPI,Shipped,Chennai
+ORD10740,CUST256,Curtains,Home Decor,4.0,504,2016.0,2026-01-23,Credit Card,Shipped,Bangalore
+ORD10741,CUST101,Wall Clock,Home Decor,3.0,727,2181.0,2026-02-23,UPI,Shipped,Delhi
+ORD10742,CUST229,Wall Clock,Home Decor,5.0,756,3780.0,2026-03-11,UPI,Cancelled,Kolkata
+ORD10743,CUST275,T-Shirt,Clothing,2.0,245,490.0,2026-01-20,Net Banking,Cancelled,Bangalore
+ORD10744,CUST153,Laptop,Electronics,3.0,760,2280.0,2026-02-06,Net Banking,Pending,Mumbai
+ORD10745,CUST336,Curtains,Home Decor,1.0,228,228.0,2026-01-07,UPI,Shipped,Mumbai
+ORD10746,CUST251,T-Shirt,Clothing,1.0,496,496.0,2026-02-26,Cash on Delivery,Cancelled,Kolkata
+ORD10747,CUST158,Table Lamp,Home Decor,2.0,240,480.0,2026-02-11,Credit Card,Shipped,Delhi
+ORD10748,CUST249,Smartwatch,Unknown,2.0,165,330.0,2026-03-02,Net Banking,Delivered,Delhi
+ORD10749,CUST199,Smartphone,Electronics,5.0,946,4730.0,2026-01-23,Cash on Delivery,Shipped,Bangalore
+ORD10750,CUST185,Sofa Cover,Home Decor,3.0,567,1701.0,2026-01-26,UPI,Delivered,Mumbai
+ORD10751,CUST207,Jeans,Clothing,1.0,968,968.0,2026-02-28,UPI,Pending,Kolkata
+ORD10752,CUST348,Jeans,Clothing,5.0,363,1815.0,2026-03-15,Unknown,Delivered,Delhi
+ORD10753,CUST171,Curtains,Home Decor,2.0,984,1968.0,2026-03-01,Credit Card,Cancelled,Kolkata
+ORD10754,CUST342,Wireless Headphones,Electronics,4.0,470,1880.0,2026-03-17,UPI,Delivered,Delhi
+ORD10755,CUST208,Laptop,Electronics,4.0,1047,4188.0,2026-01-05,Unknown,Cancelled,Delhi
+ORD10756,CUST292,Sneakers,Clothing,2.0,185,370.0,2026-03-13,Credit Card,Cancelled,Kolkata
+ORD10757,CUST123,Wireless Headphones,Electronics,3.0,504,1512.0,2026-03-24,Credit Card,Cancelled,Chennai
+ORD10758,CUST218,Smartwatch,Electronics,5.0,64,320.0,2026-02-28,UPI,Cancelled,Bangalore
+ORD10759,CUST328,Sneakers,Clothing,1.0,159,159.0,2026-02-19,Cash on Delivery,Delivered,Chennai
+ORD10760,CUST303,Jackets,Clothing,5.0,1125,5625.0,2026-03-15,UPI,Delivered,Mumbai
+ORD10761,CUST128,Wall Clock,Home Decor,5.0,760,3800.0,2026-01-07,Net Banking,Pending,Bangalore
+ORD10762,CUST265,Wall Clock,Home Decor,3.0,765,2295.0,2026-01-23,Unknown,Shipped,Bangalore
+ORD10763,CUST222,Jeans,Clothing,5.0,247,1235.0,2026-03-25,Unknown,Shipped,Mumbai
+ORD10764,CUST113,Jackets,Clothing,5.0,881,4405.0,2026-02-05,Credit Card,Pending,Mumbai
+ORD10765,CUST220,Sneakers,Clothing,5.0,1093,5465.0,2026-01-16,Cash on Delivery,Cancelled,Mumbai
+ORD10766,CUST120,Wall Clock,Home Decor,2.0,952,1904.0,2026-01-12,Net Banking,Shipped,Chennai
+ORD10767,CUST278,Laptop,Electronics,2.0,580,1160.0,2026-01-15,UPI,Cancelled,Bangalore
+ORD10768,CUST238,Laptop,Electronics,3.0,868,2604.0,2026-03-29,UPI,Cancelled,Mumbai
+ORD10769,CUST116,Sneakers,Clothing,1.0,612,612.0,2026-01-25,Credit Card,Shipped,Mumbai
+ORD10770,CUST270,Jackets,Clothing,3.0,1010,3030.0,2026-03-17,Net Banking,Cancelled,Chennai
+ORD10771,CUST158,Sofa Cover,Home Decor,3.0,366,1098.0,2026-02-03,Net Banking,Pending,Chennai
+ORD10772,CUST344,Smartphone,Electronics,3.0,597,1791.0,2026-02-28,UPI,Shipped,Chennai
+ORD10773,CUST129,Smartphone,Electronics,2.0,345,690.0,2026-01-31,Credit Card,Pending,Bangalore
+ORD10774,CUST243,Jackets,Clothing,3.0,392,1176.0,2026-01-27,Credit Card,Pending,Mumbai
+ORD10775,CUST236,Wireless Headphones,Electronics,4.0,1120,4480.0,2026-01-21,Cash on Delivery,Delivered,Mumbai
+ORD10776,CUST139,Sneakers,Clothing,2.0,953,1906.0,2026-02-10,Credit Card,Pending,Chennai
+ORD10777,CUST286,Jackets,Clothing,5.0,316,1580.0,2026-03-14,Net Banking,Pending,Delhi
+ORD10778,CUST241,Curtains,Home Decor,1.0,300,300.0,2026-03-28,Credit Card,Pending,Mumbai
+ORD10779,CUST183,Jeans,Clothing,4.0,746,2984.0,2026-01-12,Credit Card,Shipped,Kolkata
+ORD10780,CUST317,Jeans,Clothing,1.0,186,186.0,2026-03-10,Net Banking,Delivered,Delhi
+ORD10781,CUST332,Smartwatch,Electronics,3.0,1062,3186.0,2026-01-08,Cash on Delivery,Cancelled,Bangalore
+ORD10782,CUST103,Curtains,Home Decor,3.0,805,2415.0,2026-02-17,Cash on Delivery,Pending,Mumbai
+ORD10783,CUST286,Sneakers,Clothing,5.0,194,970.0,2026-01-28,Net Banking,Cancelled,Bangalore
+ORD10784,CUST313,Jeans,Clothing,4.0,863,3452.0,2026-01-18,Credit Card,Shipped,Kolkata
+ORD10785,CUST338,Sneakers,Clothing,5.0,701,3505.0,2026-01-09,Net Banking,Delivered,Mumbai
+ORD10786,CUST218,Jackets,Clothing,4.0,373,1492.0,2026-03-13,UPI,Shipped,Bangalore
+ORD10787,CUST310,Jackets,Clothing,5.0,1019,5095.0,2026-01-06,Cash on Delivery,Pending,Bangalore
+ORD10788,CUST139,Curtains,Unknown,2.0,69,138.0,2026-01-01,Cash on Delivery,Pending,Bangalore
+ORD10789,CUST332,Wireless Headphones,Electronics,4.0,382,1528.0,2026-03-04,UPI,Delivered,Delhi
+ORD10790,CUST223,Sneakers,Clothing,1.0,755,755.0,2026-03-16,Net Banking,Pending,Bangalore
+ORD10791,CUST104,Wall Clock,Home Decor,3.0,1064,3192.0,2026-03-15,Cash on Delivery,Shipped,Mumbai
+ORD10792,CUST141,Wireless Headphones,Electronics,4.0,292,1168.0,2026-02-15,Credit Card,Pending,Mumbai
+ORD10793,CUST235,Jackets,Clothing,1.0,608,608.0,2026-02-07,Credit Card,Shipped,Bangalore
+ORD10794,CUST311,Smartphone,Electronics,5.0,675,3375.0,2026-02-10,Cash on Delivery,Pending,Mumbai
+ORD10795,CUST232,Wireless Headphones,Electronics,2.0,41,82.0,2026-01-18,Cash on Delivery,Pending,Bangalore
+ORD10796,CUST139,Jackets,Clothing,2.0,224,448.0,2026-01-28,UPI,Shipped,Delhi
+ORD10797,CUST336,Sneakers,Clothing,1.0,253,253.0,2026-01-17,Unknown,Cancelled,Mumbai
+ORD10798,CUST233,Jackets,Clothing,2.0,920,1840.0,2026-03-18,Cash on Delivery,Shipped,Chennai
+ORD10799,CUST136,Laptop,Electronics,2.0,278,556.0,2026-03-30,UPI,Pending,Bangalore
+ORD10800,CUST295,Smartphone,Electronics,1.0,885,885.0,2026-03-30,Credit Card,Delivered,Mumbai
+ORD10801,CUST108,Sneakers,Clothing,1.0,417,417.0,2026-01-14,Credit Card,Cancelled,Delhi
+ORD10802,CUST102,T-Shirt,Clothing,1.0,632,632.0,2026-03-27,Credit Card,Delivered,Kolkata
+ORD10803,CUST123,Sofa Cover,Home Decor,2.0,734,1468.0,2026-01-04,UPI,Pending,Mumbai
+ORD10804,CUST245,Jeans,Clothing,5.0,510,2550.0,2026-03-06,Credit Card,Delivered,Mumbai
+ORD10805,CUST330,Sofa Cover,Home Decor,2.0,592,1184.0,2026-01-22,Credit Card,Delivered,Kolkata
+ORD10806,CUST272,Curtains,Home Decor,3.0,394,1182.0,2026-02-26,Credit Card,Shipped,Mumbai
+ORD10807,CUST204,Sneakers,Clothing,2.0,1068,2136.0,2026-01-30,Credit Card,Pending,Delhi
+ORD10808,CUST295,T-Shirt,Clothing,5.0,293,1465.0,2026-03-05,Cash on Delivery,Pending,Mumbai
+ORD10809,CUST172,Wireless Headphones,Electronics,4.0,251,1004.0,2026-02-19,Unknown,Pending,Bangalore
+ORD10810,CUST319,Smartwatch,Electronics,3.0,891,2673.0,2026-01-25,Credit Card,Cancelled,Mumbai
+ORD10811,CUST212,Laptop,Electronics,4.0,230,920.0,2026-02-20,Credit Card,Delivered,Bangalore
+ORD10812,CUST116,Sneakers,Clothing,5.0,223,1115.0,2026-01-22,Cash on Delivery,Shipped,Mumbai
+ORD10813,CUST285,Smartwatch,Electronics,1.0,491,491.0,2026-02-24,Unknown,Pending,Chennai
+ORD10814,CUST254,Curtains,Home Decor,3.0,989,2967.0,2026-03-27,Net Banking,Cancelled,Chennai
+ORD10815,CUST225,Smartwatch,Electronics,1.0,265,265.0,2026-02-02,Net Banking,Shipped,Bangalore
+ORD10816,CUST273,Laptop,Electronics,1.0,154,154.0,2026-03-05,Credit Card,Shipped,Delhi
+ORD10817,CUST259,Table Lamp,Home Decor,2.0,635,1270.0,2026-03-21,Credit Card,Delivered,Bangalore
+ORD10818,CUST229,Jeans,Clothing,3.0,1034,3102.0,2026-03-04,Cash on Delivery,Pending,Mumbai
+ORD10819,CUST180,Smartwatch,Electronics,1.0,800,800.0,2026-02-27,Net Banking,Cancelled,Bangalore
+ORD10820,CUST320,Laptop,Electronics,2.0,1155,2310.0,2026-03-26,Cash on Delivery,Shipped,Bangalore
+ORD10821,CUST295,Jeans,Clothing,3.0,811,2433.0,2026-03-04,Credit Card,Cancelled,Bangalore
+ORD10822,CUST167,Jeans,Clothing,5.0,129,645.0,2026-02-20,Net Banking,Cancelled,Mumbai
+ORD10823,CUST111,Jackets,Clothing,1.0,72,72.0,2026-03-17,UPI,Pending,Mumbai
+ORD10824,CUST209,Wall Clock,Home Decor,3.0,794,2382.0,2026-01-13,Cash on Delivery,Pending,Delhi
+ORD10825,CUST265,T-Shirt,Clothing,2.0,522,1044.0,2026-01-31,Cash on Delivery,Delivered,Delhi
+ORD10826,CUST237,T-Shirt,Clothing,3.0,362,1086.0,2026-01-03,Cash on Delivery,Delivered,Bangalore
+ORD10827,CUST168,Curtains,Home Decor,5.0,1069,5345.0,2026-02-23,Credit Card,Cancelled,Mumbai
+ORD10828,CUST246,Sneakers,Clothing,5.0,814,4070.0,2026-02-11,Credit Card,Cancelled,Delhi
+ORD10829,CUST307,Sofa Cover,Home Decor,3.0,1032,3096.0,2026-03-06,Cash on Delivery,Shipped,Chennai
+ORD10830,CUST316,Sneakers,Clothing,2.0,1032,2064.0,2026-03-23,Credit Card,Shipped,Chennai
+ORD10831,CUST305,T-Shirt,Clothing,3.0,1189,3567.0,2026-02-21,Unknown,Delivered,Delhi
+ORD10832,CUST305,Table Lamp,Home Decor,3.0,152,456.0,2026-03-14,Net Banking,Cancelled,Kolkata
+ORD10833,CUST210,T-Shirt,Clothing,3.0,1048,3144.0,2026-02-08,Cash on Delivery,Shipped,Delhi
+ORD10834,CUST271,Jackets,Clothing,5.0,1070,5350.0,2026-02-28,UPI,Delivered,Bangalore
+ORD10835,CUST339,Curtains,Home Decor,2.0,972,1944.0,2026-02-04,Net Banking,Delivered,Kolkata
+ORD10836,CUST291,Sneakers,Clothing,2.0,507,1014.0,2026-01-20,Cash on Delivery,Cancelled,Delhi
+ORD10837,CUST310,T-Shirt,Clothing,2.0,859,1718.0,2026-02-04,Cash on Delivery,Shipped,Chennai
+ORD10838,CUST138,Sofa Cover,Home Decor,4.0,503,2012.0,2026-01-15,UPI,Delivered,Kolkata
+ORD10839,CUST208,Sneakers,Clothing,4.0,1161,4644.0,2026-02-25,Credit Card,Shipped,Bangalore
+ORD10840,CUST268,Jeans,Clothing,1.0,544,544.0,2026-02-05,UPI,Delivered,Bangalore
+ORD10841,CUST176,Laptop,Electronics,1.0,657,657.0,2026-03-19,Credit Card,Cancelled,Mumbai
+ORD10842,CUST128,Wall Clock,Home Decor,4.0,302,1208.0,2026-01-31,Credit Card,Pending,Bangalore
+ORD10843,CUST184,Smartphone,Electronics,5.0,265,1325.0,2026-02-10,Net Banking,Shipped,Delhi
+ORD10844,CUST348,Smartphone,Electronics,1.0,373,373.0,2026-01-28,Cash on Delivery,Cancelled,Delhi
+ORD10845,CUST279,T-Shirt,Clothing,4.0,1107,4428.0,2026-02-17,Credit Card,Pending,Delhi
+ORD10846,CUST221,Jeans,Unknown,3.0,311,933.0,2026-02-16,Cash on Delivery,Pending,Mumbai
+ORD10847,CUST241,Wall Clock,Home Decor,1.0,505,505.0,2026-02-02,Net Banking,Pending,Mumbai
+ORD10848,CUST199,Wall Clock,Home Decor,5.0,499,2495.0,2026-02-26,Credit Card,Cancelled,Chennai
+ORD10849,CUST320,T-Shirt,Clothing,2.0,624,1248.0,2026-01-27,UPI,Cancelled,Mumbai
+ORD10850,CUST310,Curtains,Home Decor,1.0,576,576.0,2026-01-11,Net Banking,Cancelled,Delhi
+ORD10851,CUST166,Sneakers,Clothing,1.0,343,343.0,2026-03-31,Credit Card,Pending,Delhi
+ORD10852,CUST264,Table Lamp,Home Decor,4.0,71,284.0,2026-01-07,UPI,Cancelled,Bangalore
+ORD10853,CUST247,Smartwatch,Electronics,2.0,640,1280.0,2026-02-10,Credit Card,Delivered,Bangalore
+ORD10854,CUST215,Smartphone,Electronics,5.0,855,4275.0,2026-02-10,Net Banking,Shipped,Chennai
+ORD10855,CUST206,Wireless Headphones,Electronics,3.0,421,1263.0,2026-01-11,Cash on Delivery,Shipped,Delhi
+ORD10856,CUST265,Jeans,Unknown,1.0,62,62.0,2026-03-13,UPI,Delivered,Bangalore
+ORD10857,CUST258,Wireless Headphones,Electronics,2.0,116,232.0,2026-02-21,Net Banking,Pending,Bangalore
+ORD10858,CUST103,Wireless Headphones,Electronics,2.0,1176,2352.0,2026-01-16,Net Banking,Cancelled,Bangalore
+ORD10859,CUST173,Smartphone,Electronics,2.0,405,810.0,2026-02-04,Net Banking,Cancelled,Bangalore
+ORD10860,CUST286,Jeans,Unknown,5.0,456,2280.0,2026-02-06,UPI,Cancelled,Bangalore
+ORD10861,CUST160,Jeans,Clothing,1.0,609,609.0,2026-02-03,Net Banking,Shipped,Mumbai
+ORD10862,CUST134,Curtains,Home Decor,1.0,36,36.0,2026-03-02,Cash on Delivery,Cancelled,Kolkata
+ORD10863,CUST124,Curtains,Home Decor,4.0,539,2156.0,2026-01-10,Credit Card,Delivered,Mumbai
+ORD10864,CUST164,Smartwatch,Electronics,3.0,108,324.0,2026-01-01,Net Banking,Pending,Delhi
+ORD10865,CUST248,Table Lamp,Home Decor,2.0,1160,2320.0,2026-01-06,UPI,Pending,Bangalore
+ORD10866,CUST122,Curtains,Home Decor,3.0,973,2919.0,2026-01-17,Cash on Delivery,Cancelled,Bangalore
+ORD10867,CUST227,T-Shirt,Clothing,3.0,105,315.0,2026-01-17,Cash on Delivery,Pending,Delhi
+ORD10868,CUST180,Jackets,Clothing,5.0,555,2775.0,2026-03-08,Net Banking,Shipped,Mumbai
+ORD10869,CUST262,Curtains,Home Decor,2.0,1153,2306.0,2026-03-26,Net Banking,Delivered,Kolkata
+ORD10870,CUST220,Laptop,Electronics,2.0,390,780.0,2026-01-05,Cash on Delivery,Shipped,Bangalore
+ORD10871,CUST191,T-Shirt,Clothing,4.0,98,392.0,2026-02-26,Net Banking,Cancelled,Bangalore
+ORD10872,CUST152,Smartphone,Electronics,3.0,730,2190.0,2026-01-12,Cash on Delivery,Shipped,Bangalore
+ORD10873,CUST348,Table Lamp,Home Decor,5.0,449,2245.0,2026-03-16,Credit Card,Shipped,Delhi
+ORD10874,CUST106,Smartphone,Electronics,4.0,208,832.0,2026-02-12,Cash on Delivery,Delivered,Delhi
+ORD10875,CUST120,T-Shirt,Clothing,3.0,329,987.0,2026-01-04,Net Banking,Cancelled,Bangalore
+ORD10876,CUST348,Table Lamp,Home Decor,5.0,26,130.0,2026-02-12,Credit Card,Cancelled,Mumbai
+ORD10877,CUST172,Sofa Cover,Home Decor,2.0,114,228.0,2026-03-24,Cash on Delivery,Delivered,Delhi
+ORD10878,CUST145,Curtains,Home Decor,1.0,831,831.0,2026-02-02,UPI,Cancelled,Delhi
+ORD10879,CUST172,Smartphone,Electronics,2.0,810,1620.0,2026-02-21,UPI,Delivered,Chennai
+ORD10880,CUST270,Sneakers,Unknown,3.0,283,849.0,2026-02-15,Credit Card,Pending,Kolkata
+ORD10881,CUST244,Sneakers,Clothing,4.0,990,3960.0,2026-02-04,Unknown,Delivered,Delhi
+ORD10882,CUST110,Jeans,Clothing,4.0,887,3548.0,2026-01-12,Cash on Delivery,Cancelled,Kolkata
+ORD10883,CUST265,Sofa Cover,Home Decor,4.0,1094,4376.0,2026-03-22,Credit Card,Pending,Bangalore
+ORD10884,CUST132,T-Shirt,Clothing,4.0,630,2520.0,2026-01-20,Cash on Delivery,Shipped,Delhi
+ORD10885,CUST231,T-Shirt,Clothing,5.0,171,855.0,2026-01-06,Credit Card,Cancelled,Delhi
+ORD10886,CUST165,Smartwatch,Electronics,5.0,533,2665.0,2026-02-15,Credit Card,Delivered,Delhi
+ORD10887,CUST111,Curtains,Home Decor,2.0,388,776.0,2026-02-20,Credit Card,Cancelled,Chennai
+ORD10888,CUST347,Sneakers,Clothing,4.0,557,2228.0,2026-02-13,UPI,Shipped,Bangalore
+ORD10889,CUST104,Wireless Headphones,Electronics,1.0,903,903.0,2026-03-10,Credit Card,Cancelled,Delhi
+ORD10890,CUST203,Smartphone,Electronics,4.0,957,3828.0,2026-03-30,Net Banking,Pending,Mumbai
+ORD10891,CUST134,Curtains,Home Decor,3.0,194,582.0,2026-01-17,Credit Card,Shipped,Delhi
+ORD10892,CUST266,Smartphone,Electronics,1.0,443,443.0,2026-03-03,UPI,Shipped,Delhi
+ORD10893,CUST137,Sofa Cover,Home Decor,1.0,631,631.0,2026-03-01,Net Banking,Cancelled,Mumbai
+ORD10894,CUST220,Smartphone,Electronics,2.0,926,1852.0,2026-03-04,Credit Card,Cancelled,Kolkata
+ORD10895,CUST185,Wireless Headphones,Electronics,5.0,817,4085.0,2026-01-07,Credit Card,Delivered,Delhi
+ORD10896,CUST109,Sneakers,Clothing,5.0,1150,5750.0,2026-02-07,Net Banking,Cancelled,Bangalore
+ORD10897,CUST104,Curtains,Unknown,2.0,139,278.0,2026-03-09,Net Banking,Pending,Delhi
+ORD10898,CUST259,Sneakers,Clothing,4.0,254,1016.0,2026-03-05,Cash on Delivery,Cancelled,Delhi
+ORD10899,CUST188,Smartphone,Electronics,3.0,408,1224.0,2026-03-02,Net Banking,Shipped,Kolkata
+ORD10900,CUST326,Table Lamp,Home Decor,5.0,974,4870.0,2026-01-17,Cash on Delivery,Cancelled,Delhi
+ORD10901,CUST153,Table Lamp,Home Decor,4.0,346,1384.0,2026-03-21,Cash on Delivery,Delivered,Bangalore
+ORD10902,CUST225,Smartphone,Electronics,2.0,335,670.0,2026-03-19,Credit Card,Cancelled,Bangalore
+ORD10903,CUST104,Jeans,Clothing,2.0,1155,2310.0,2026-01-07,Cash on Delivery,Pending,Mumbai
+ORD10904,CUST306,Sofa Cover,Home Decor,2.0,1046,2092.0,2026-01-05,Credit Card,Pending,Delhi
+ORD10905,CUST224,Smartphone,Electronics,1.0,1165,1165.0,2026-01-29,Cash on Delivery,Pending,Mumbai
+ORD10906,CUST271,Wireless Headphones,Electronics,2.0,1070,2140.0,2026-03-19,Credit Card,Delivered,Bangalore
+ORD10907,CUST110,T-Shirt,Clothing,1.0,223,223.0,2026-03-13,Credit Card,Shipped,Delhi
+ORD10908,CUST213,Wireless Headphones,Electronics,2.0,613,1226.0,2026-04-01,Net Banking,Delivered,Bangalore
+ORD10909,CUST317,Table Lamp,Home Decor,3.0,297,891.0,2026-01-16,Unknown,Cancelled,Delhi
+ORD10910,CUST229,Smartphone,Electronics,3.0,714,2142.0,2026-02-06,UPI,Delivered,Chennai
+ORD10911,CUST292,Sneakers,Clothing,3.0,517,1551.0,2026-01-20,Net Banking,Shipped,Bangalore
+ORD10912,CUST303,Sneakers,Clothing,4.0,954,3816.0,2026-03-08,Cash on Delivery,Delivered,Bangalore
+ORD10913,CUST186,Laptop,Electronics,5.0,157,785.0,2026-01-11,Cash on Delivery,Cancelled,Bangalore
+ORD10914,CUST336,T-Shirt,Clothing,4.0,90,360.0,2026-03-26,UPI,Delivered,Chennai
+ORD10915,CUST332,Sneakers,Clothing,5.0,638,3190.0,2026-02-10,Cash on Delivery,Delivered,Chennai
+ORD10916,CUST152,Sofa Cover,Home Decor,4.0,928,3712.0,2026-03-24,Net Banking,Pending,Delhi
+ORD10917,CUST185,Wireless Headphones,Electronics,1.0,90,90.0,2026-03-10,Net Banking,Shipped,Chennai
+ORD10918,CUST233,Laptop,Electronics,5.0,1145,5725.0,2026-02-09,Cash on Delivery,Shipped,Mumbai
+ORD10919,CUST229,Wireless Headphones,Electronics,2.0,637,1274.0,2026-02-24,Credit Card,Delivered,Mumbai
+ORD10920,CUST340,Jackets,Clothing,1.0,112,112.0,2026-03-25,Credit Card,Cancelled,Chennai
+ORD10921,CUST306,Wall Clock,Home Decor,4.0,709,2836.0,2026-01-31,UPI,Pending,Chennai
+ORD10922,CUST126,Jeans,Clothing,4.0,1079,4316.0,2026-02-01,Cash on Delivery,Shipped,Mumbai
+ORD10923,CUST120,T-Shirt,Clothing,2.0,886,1772.0,2026-02-22,Credit Card,Delivered,Delhi
+ORD10924,CUST194,Smartwatch,Unknown,2.0,928,1856.0,2026-01-10,Net Banking,Cancelled,Chennai
+ORD10925,CUST338,Curtains,Home Decor,4.0,916,3664.0,2026-03-30,Net Banking,Cancelled,Bangalore
+ORD10926,CUST347,Smartphone,Electronics,4.0,952,3808.0,2026-01-17,Credit Card,Shipped,Bangalore
+ORD10927,CUST335,T-Shirt,Clothing,2.0,1159,2318.0,2026-02-17,Credit Card,Cancelled,Delhi
+ORD10928,CUST233,Wireless Headphones,Electronics,5.0,608,3040.0,2026-01-06,UPI,Delivered,Mumbai
+ORD10929,CUST107,Jackets,Clothing,3.0,617,1851.0,2026-03-04,UPI,Shipped,Delhi
+ORD10930,CUST309,Wireless Headphones,Electronics,3.0,456,1368.0,2026-01-24,Net Banking,Delivered,Delhi
+ORD10931,CUST223,Table Lamp,Home Decor,1.0,106,106.0,2026-02-23,Cash on Delivery,Cancelled,Mumbai
+ORD10932,CUST229,Sneakers,Clothing,5.0,286,1430.0,2026-01-18,Net Banking,Cancelled,Bangalore
+ORD10933,CUST159,Wireless Headphones,Electronics,1.0,853,853.0,2026-02-19,Net Banking,Pending,Mumbai
+ORD10934,CUST281,Curtains,Home Decor,3.0,196,588.0,2026-01-22,Credit Card,Pending,Delhi
+ORD10935,CUST293,Wall Clock,Home Decor,2.0,1124,2248.0,2026-03-15,Credit Card,Shipped,Bangalore
+ORD10936,CUST346,Wall Clock,Home Decor,1.0,1104,1104.0,2026-01-24,Credit Card,Pending,Kolkata
+ORD10937,CUST182,Smartwatch,Electronics,1.0,1107,1107.0,2026-03-19,Net Banking,Delivered,Bangalore
+ORD10938,CUST106,Wireless Headphones,Electronics,4.0,384,1536.0,2026-02-23,Cash on Delivery,Cancelled,Chennai
+ORD10939,CUST173,Laptop,Electronics,1.0,1124,1124.0,2026-01-22,UPI,Shipped,Chennai
+ORD10940,CUST143,Smartphone,Electronics,3.0,849,2547.0,2026-03-28,Credit Card,Pending,Bangalore
+ORD10941,CUST181,Laptop,Electronics,3.0,813,2439.0,2026-01-13,UPI,Cancelled,Mumbai
+ORD10942,CUST161,Sneakers,Clothing,1.0,121,121.0,2026-01-26,UPI,Cancelled,Delhi
+ORD10943,CUST241,Wireless Headphones,Electronics,1.0,666,666.0,2026-03-01,Net Banking,Delivered,Bangalore
+ORD10944,CUST241,Smartwatch,Electronics,2.0,53,106.0,2026-02-04,Credit Card,Shipped,Bangalore
+ORD10945,CUST228,Sneakers,Clothing,4.0,186,744.0,2026-03-23,UPI,Shipped,Mumbai
+ORD10946,CUST346,Sofa Cover,Home Decor,2.0,1115,2230.0,2026-02-24,Net Banking,Delivered,Mumbai
+ORD10947,CUST338,Jackets,Clothing,2.0,16,32.0,2026-01-08,Net Banking,Pending,Chennai
+ORD10948,CUST315,Curtains,Home Decor,3.0,450,1350.0,2026-03-16,Cash on Delivery,Delivered,Bangalore
+ORD10949,CUST278,Wall Clock,Home Decor,3.0,198,594.0,2026-02-20,Credit Card,Shipped,Chennai
+ORD10950,CUST326,Jeans,Clothing,5.0,1048,5240.0,2026-02-10,Cash on Delivery,Pending,Bangalore
+ORD10951,CUST217,Jeans,Clothing,3.0,714,2142.0,2026-01-27,Cash on Delivery,Delivered,Bangalore
+ORD10952,CUST330,Wall Clock,Home Decor,5.0,990,4950.0,2026-01-01,Credit Card,Shipped,Delhi
+ORD10953,CUST301,Curtains,Home Decor,4.0,1117,4468.0,2026-01-11,Credit Card,Delivered,Bangalore
+ORD10954,CUST191,Wall Clock,Unknown,3.0,785,2355.0,2026-03-18,Net Banking,Shipped,Mumbai
+ORD10955,CUST102,Smartwatch,Electronics,3.0,410,1230.0,2026-02-26,UPI,Delivered,Chennai
+ORD10956,CUST260,Table Lamp,Home Decor,2.0,199,398.0,2026-03-20,Cash on Delivery,Shipped,Kolkata
+ORD10957,CUST331,Jackets,Clothing,1.0,589,589.0,2026-03-05,UPI,Delivered,Kolkata
+ORD10958,CUST228,Curtains,Home Decor,1.0,583,583.0,2026-03-14,Net Banking,Shipped,Kolkata
+ORD10959,CUST132,Sofa Cover,Home Decor,1.0,277,277.0,2026-01-09,Cash on Delivery,Shipped,Chennai
+ORD10960,CUST243,Laptop,Electronics,5.0,532,2660.0,2026-03-29,Net Banking,Delivered,Delhi
+ORD10961,CUST170,Wall Clock,Home Decor,3.0,900,2700.0,2026-02-22,Credit Card,Cancelled,Bangalore
+ORD10962,CUST335,T-Shirt,Clothing,2.0,111,222.0,2026-02-05,Net Banking,Cancelled,Mumbai
+ORD10963,CUST325,Smartwatch,Electronics,2.0,700,1400.0,2026-01-11,Credit Card,Shipped,Delhi
+ORD10964,CUST179,Smartphone,Electronics,2.0,351,702.0,2026-02-12,Credit Card,Delivered,Mumbai
+ORD10965,CUST163,Sneakers,Clothing,1.0,699,699.0,2026-02-02,Credit Card,Cancelled,Kolkata
+ORD10966,CUST341,T-Shirt,Clothing,3.0,1079,3237.0,2026-01-31,Credit Card,Cancelled,Delhi
+ORD10967,CUST349,Curtains,Home Decor,5.0,270,1350.0,2026-01-11,Credit Card,Delivered,Delhi
+ORD10968,CUST114,T-Shirt,Clothing,3.0,141,423.0,2026-02-26,Cash on Delivery,Cancelled,Delhi
+ORD10969,CUST317,Laptop,Electronics,5.0,121,605.0,2026-02-07,Net Banking,Cancelled,Delhi
+ORD10970,CUST198,Curtains,Home Decor,2.0,36,72.0,2026-02-28,Net Banking,Cancelled,Delhi
+ORD10971,CUST250,T-Shirt,Clothing,3.0,1074,3222.0,2026-02-12,UPI,Delivered,Delhi
+ORD10972,CUST132,Laptop,Electronics,5.0,411,2055.0,2026-03-15,Cash on Delivery,Pending,Delhi
+ORD10973,CUST304,Sneakers,Clothing,2.0,512,1024.0,2026-01-18,Credit Card,Delivered,Bangalore
+ORD10974,CUST249,Sneakers,Clothing,5.0,747,3735.0,2026-02-09,UPI,Shipped,Bangalore
+ORD10975,CUST232,Jackets,Clothing,3.0,770,2310.0,2026-01-02,UPI,Delivered,Kolkata
+ORD10976,CUST349,Wall Clock,Home Decor,4.0,719,2876.0,2026-01-26,UPI,Shipped,Delhi
+ORD10977,CUST277,Jeans,Clothing,4.0,972,3888.0,2026-03-18,Cash on Delivery,Pending,Chennai
+ORD10978,CUST324,Jackets,Clothing,2.0,229,458.0,2026-02-28,Credit Card,Cancelled,Kolkata
+ORD10979,CUST154,Smartphone,Electronics,2.0,970,1940.0,2026-03-21,UPI,Cancelled,Mumbai
+ORD10980,CUST311,Curtains,Home Decor,2.0,834,1668.0,2026-01-24,Credit Card,Pending,Mumbai
+ORD10981,CUST136,Wireless Headphones,Electronics,1.0,1151,1151.0,2026-01-15,Cash on Delivery,Cancelled,Kolkata
+ORD10982,CUST150,Table Lamp,Home Decor,1.0,75,75.0,2026-01-26,Cash on Delivery,Shipped,Kolkata
+ORD10983,CUST145,Jeans,Clothing,3.0,1150,3450.0,2026-02-01,UPI,Delivered,Bangalore
+ORD10984,CUST267,T-Shirt,Clothing,1.0,296,296.0,2026-02-18,Credit Card,Pending,Kolkata
+ORD10985,CUST269,Sneakers,Clothing,2.0,772,1544.0,2026-02-17,UPI,Cancelled,Delhi
+ORD10986,CUST236,Smartphone,Electronics,2.0,403,806.0,2026-01-25,Net Banking,Pending,Mumbai
+ORD10987,CUST250,Curtains,Home Decor,2.0,109,218.0,2026-03-20,UPI,Pending,Bangalore
+ORD10988,CUST317,Jeans,Clothing,1.0,588,588.0,2026-01-17,Net Banking,Shipped,Delhi
+ORD10989,CUST292,T-Shirt,Clothing,2.0,1056,2112.0,2026-02-19,Cash on Delivery,Cancelled,Bangalore
+ORD10990,CUST223,Wireless Headphones,Electronics,3.0,1091,3273.0,2026-03-30,Net Banking,Cancelled,Chennai
+ORD10991,CUST156,Curtains,Home Decor,5.0,89,445.0,2026-01-27,UPI,Cancelled,Kolkata
+ORD10992,CUST246,Jeans,Clothing,3.0,885,2655.0,2026-02-18,UPI,Pending,Chennai
+ORD10993,CUST213,Wall Clock,Home Decor,2.0,187,374.0,2026-02-07,Cash on Delivery,Shipped,Mumbai
+ORD10994,CUST210,Jackets,Clothing,4.0,938,3752.0,2026-03-01,Net Banking,Pending,Bangalore
+ORD10995,CUST213,Jackets,Clothing,3.0,65,195.0,2026-01-23,UPI,Pending,Delhi
+ORD10996,CUST239,T-Shirt,Clothing,3.0,1042,3126.0,2026-03-07,Credit Card,Pending,Kolkata
+ORD10997,CUST239,Laptop,Electronics,1.0,752,752.0,2026-01-05,UPI,Pending,Kolkata
+ORD10998,CUST316,Table Lamp,Home Decor,3.0,634,1902.0,2026-03-29,Cash on Delivery,Shipped,Bangalore
+ORD10999,CUST310,Table Lamp,Home Decor,1.0,628,628.0,2026-02-06,Cash on Delivery,Cancelled,Delhi
